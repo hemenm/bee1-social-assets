@@ -7,9 +7,9 @@
   {
    "episode": 1,
    "duration_s": 155.17,
-   "status": "in progress",
+   "status": "done",
    "beat_plan": "beats/ep01.json",
-   "credits_spent": 0,
+   "credits_spent": 1280,
    "months": [
     "2026-11"
    ]

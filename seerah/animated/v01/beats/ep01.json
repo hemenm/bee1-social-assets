@@ -13,11 +13,13 @@
    ],
    "description": "Dawn in the hill country of Sham: a goat-hair tent, a kneeling camel being loaded with bundles for a long journey, a small woven cradle by the tent, olive trees, morning mist. No people.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/01.png",
+   "clip": "clips/ep01/01.mp4",
    "clip_seconds": 15,
-   "credits_spent": null
+   "credits_spent": 242,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 2,
@@ -43,11 +45,14 @@
    ],
    "description": "High aerial view over rugged Hijaz mountain ranges: one line of camel tracks winding through the passes toward a distant empty valley. No people.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/03.png",
+   "clip": "clips/ep01/03.mp4",
    "clip_seconds": 13,
-   "credits_spent": null
+   "credits_spent": 212,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)",
+   "regenerated": "first keyframe showed a tiny distant caravan that could read as the family travelling; regenerated empty"
   },
   {
    "shot": 4,
@@ -73,11 +78,13 @@
    ],
    "description": "The empty valley floor: cracked dry earth, a dry streambed, bare dark mountains, heat shimmer, no water, no plants, no one.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/05.png",
+   "clip": "clips/ep01/05.mp4",
    "clip_seconds": 6,
-   "credits_spent": null
+   "credits_spent": 98,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 6,
@@ -88,11 +95,13 @@
    ],
    "description": "The bag of dates and the full waterskin left in the tree's shade (keyframe reused from library v01-ep01-s03).",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "library/keyframes/v01-ep01-s03.png",
+   "clip": "clips/ep01/06.mp4",
    "clip_seconds": 9,
-   "credits_spent": null
+   "credits_spent": 144,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 7,
@@ -118,11 +127,13 @@
    ],
    "description": "Her point of view, hurrying after him: the camera moves fast over the sand up the valley along a line of fresh sandal footprints toward the mountain pass. No figure in frame.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/08.png",
+   "clip": "clips/ep01/08.mp4",
    "clip_seconds": 12,
-   "credits_spent": null
+   "credits_spent": 194,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 9,
@@ -133,11 +144,13 @@
    ],
    "description": "The narrow pass at the head of the valley: footprints climb into it and out of sight while wind sweeps sand across them. Nobody turns back.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/09.png",
+   "clip": "clips/ep01/09.mp4",
    "clip_seconds": 6,
-   "credits_spent": null
+   "credits_spent": 98,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 10,
@@ -151,11 +164,13 @@
    ],
    "description": "Back at the lone tree with its small cloth shelter, dates and waterskin: clouds part and soft warm light falls over the valley. Trust and calm.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/10.png",
+   "clip": "clips/ep01/10.mp4",
    "clip_seconds": 12,
-   "credits_spent": null
+   "credits_spent": 194,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 11,
@@ -181,11 +196,13 @@
    ],
    "description": "From high in the pass the camera turns from the path to face back over the ridge toward the far valley of the House, golden light, prayerful stillness. No figure, no hands.",
    "source": "new",
-   "status": "todo",
-   "keyframe": null,
-   "clip": null,
+   "status": "done",
+   "keyframe": "keyframes/ep01/12.png",
+   "clip": "clips/ep01/12.mp4",
    "clip_seconds": 6,
-   "credits_spent": null
+   "credits_spent": 98,
+   "month": "2026-11",
+   "clip_model": "seedance_2_5 (omni_reference start frame, 1080p, no audio)"
   },
   {
    "shot": 13,
