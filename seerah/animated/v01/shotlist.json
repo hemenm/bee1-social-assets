@@ -7,10 +7,12 @@
   {
    "episode": 1,
    "duration_s": 155.17,
-   "status": "todo",
-   "beat_plan": null,
+   "status": "in progress",
+   "beat_plan": "beats/ep01.json",
    "credits_spent": 0,
-   "months": []
+   "months": [
+    "2026-11"
+   ]
   },
   {
    "episode": 2,

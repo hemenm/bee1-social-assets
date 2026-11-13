@@ -1,0 +1,251 @@
+{
+ "episode": 1,
+ "duration_s": 155.17,
+ "audio": "source/ep01.mp3",
+ "notes": "Reused library clips are marked source 'reuse' with the speed or trim to apply at assembly. New clips: Seedance 2.5, omni_reference with the keyframe as start frame, 1080p, no audio.",
+ "shots": [
+  {
+   "shot": 1,
+   "start": 0.0,
+   "end": 15.3,
+   "paragraphs": [
+    1
+   ],
+   "description": "Dawn in the hill country of Sham: a goat-hair tent, a kneeling camel being loaded with bundles for a long journey, a small woven cradle by the tent, olive trees, morning mist. No people.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 15,
+   "credits_spent": null
+  },
+  {
+   "shot": 2,
+   "start": 15.3,
+   "end": 27.1,
+   "paragraphs": [
+    2
+   ],
+   "description": "The trailing belt: camel tracks on a desert road with a smooth drag line wiping the footprints away.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep01-s01.mp4 (10s, play at ~0.85x)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 3,
+   "start": 27.1,
+   "end": 40.0,
+   "paragraphs": [
+    3
+   ],
+   "description": "High aerial view over rugged Hijaz mountain ranges: one line of camel tracks winding through the passes toward a distant empty valley. No people.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 13,
+   "credits_spent": null
+  },
+  {
+   "shot": 4,
+   "start": 40.0,
+   "end": 49.0,
+   "paragraphs": [
+    4
+   ],
+   "description": "The lone thorny tree by the low red mound, the site of the House; a bundle and a bag in its shade.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep01-s02.mp4 (trim to 9s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 5,
+   "start": 49.0,
+   "end": 55.4,
+   "paragraphs": [
+    5
+   ],
+   "description": "The empty valley floor: cracked dry earth, a dry streambed, bare dark mountains, heat shimmer, no water, no plants, no one.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 6,
+   "credits_spent": null
+  },
+  {
+   "shot": 6,
+   "start": 55.4,
+   "end": 64.1,
+   "paragraphs": [
+    6
+   ],
+   "description": "The bag of dates and the full waterskin left in the tree's shade (keyframe reused from library v01-ep01-s03).",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 9,
+   "credits_spent": null
+  },
+  {
+   "shot": 7,
+   "start": 64.1,
+   "end": 68.0,
+   "paragraphs": [
+    7
+   ],
+   "description": "He turns and sets off: footprints leading away from the tree toward the pass.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep01-s04.mp4 (trim to 3.9s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 8,
+   "start": 68.0,
+   "end": 80.4,
+   "paragraphs": [
+    8
+   ],
+   "description": "Her point of view, hurrying after him: the camera moves fast over the sand up the valley along a line of fresh sandal footprints toward the mountain pass. No figure in frame.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 12,
+   "credits_spent": null
+  },
+  {
+   "shot": 9,
+   "start": 80.4,
+   "end": 86.1,
+   "paragraphs": [
+    9
+   ],
+   "description": "The narrow pass at the head of the valley: footprints climb into it and out of sight while wind sweeps sand across them. Nobody turns back.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 6,
+   "credits_spent": null
+  },
+  {
+   "shot": 10,
+   "start": 86.1,
+   "end": 98.0,
+   "paragraphs": [
+    10,
+    11,
+    12,
+    13
+   ],
+   "description": "Back at the lone tree with its small cloth shelter, dates and waterskin: clouds part and soft warm light falls over the valley. Trust and calm.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 12,
+   "credits_spent": null
+  },
+  {
+   "shot": 11,
+   "start": 98.0,
+   "end": 108.0,
+   "paragraphs": [
+    14
+   ],
+   "description": "The pass where they cannot see him.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep01-s05.mp4 (10s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 12,
+   "start": 108.0,
+   "end": 113.9,
+   "paragraphs": [
+    14
+   ],
+   "description": "From high in the pass the camera turns from the path to face back over the ridge toward the far valley of the House, golden light, prayerful stillness. No figure, no hands.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 6,
+   "credits_spent": null
+  },
+  {
+   "shot": 13,
+   "start": 113.9,
+   "end": 126.0,
+   "paragraphs": [
+    15
+   ],
+   "description": "The du'a begins: light rays over the valley, tilt up to the glowing sky.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep01-s06.mp4 (10s, play at ~0.83x)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 14,
+   "start": 126.0,
+   "end": 137.0,
+   "paragraphs": [
+    15
+   ],
+   "description": "A valley without crops: the lone tree and shelter under the night sky, drifting up to the stars.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep01-s07.mp4 (10s, play at ~0.9x)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 15,
+   "start": 137.0,
+   "end": 150.3,
+   "paragraphs": [
+    15
+   ],
+   "description": "'Provide them with fruits': light through a quiet palm grove.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep05-s07.mp4 (10s, play at ~0.75x)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 16,
+   "start": 150.3,
+   "end": 155.17,
+   "paragraphs": [
+    16
+   ],
+   "description": "Mother and son alone in the valley: the cradle cloth, waterskin and dates under the tree.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s01.mp4 (trim to 4.9s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  }
+ ]
+}
