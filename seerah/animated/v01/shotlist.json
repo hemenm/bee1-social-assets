@@ -12,7 +12,12 @@
    "credits_spent": 1280,
    "months": [
     "2026-11"
-   ]
+   ],
+   "assembled": {
+    "cut": "episodes/ep01/ep01-16x9-720p.mp4",
+    "subtitles": "episodes/ep01/ep01.ass",
+    "note": "Full-quality 1080p cut and a textless master were delivered directly; rebuild them with tools/build_episode.py and tools/make_subtitles.py."
+   }
   },
   {
    "episode": 2,

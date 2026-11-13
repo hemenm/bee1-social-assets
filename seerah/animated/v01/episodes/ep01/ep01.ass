@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base,Inter,31,&H00FFFFFF,&H00FFFFFF,&H64000000,&H96000000,0,0,0,0,100,100,0,0,1,0.6,1.6,2,60,60,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.35,0:00:15.55,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Ibrahim, peace be upon him, was one of Allah's prophets. He had a little son named Isma'il, peace be\Nupon him, and Isma'il's mother was named Hajar.
+Dialogue: 0,0:00:00.35,0:00:15.55,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,936)\fnAmiri\fs100\c&HFFFFFF&}كَانَ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ نَبِيًّا مِنْ أَنْبِيَاءِ اللَّهِ. وَكَانَ لَهُ ابْنٌ صَغِيرٌ اسْمُهُ إِسْمَاعِيلُ عَلَيْهِ\Nالسَّلَامُ، وَأُمُّ إِسْمَاعِيلَ اسْمُهَا هَاجَرُ.
+Dialogue: 0,0:00:15.55,0:00:27.39,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Isma'il's mother was the first woman to wear the mintaq, a cloth belt tied at the waist. She wore one to\Nhide her tracks from Sarah, Ibrahim's wife.
+Dialogue: 0,0:00:15.55,0:00:27.39,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,936)\fnAmiri\fs100\c&HFFFFFF&}وَأُمُّ إِسْمَاعِيلَ هِيَ أَوَّلُ مَنْ لَبِسَ الْمِنْطَقَ مِنَ النِّسَاءِ. لَبِسَتْ مِنْطَقًا لِتُخْفِيَ أَثَرَهَا عَنْ\Nسَارَةَ، زَوْجَةِ إِبْرَاهِيمَ.
+Dialogue: 0,0:00:27.39,0:00:40.19,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Then Ibrahim brought Isma'il's mother and her son Isma'il, while she was still nursing him. They\Ntravelled until they reached a valley among the mountains.
+Dialogue: 0,0:00:27.39,0:00:40.19,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,936)\fnAmiri\fs100\c&HFFFFFF&}ثُمَّ جَاءَ إِبْرَاهِيمُ بِأُمِّ إِسْمَاعِيلَ وَبِابْنِهَا إِسْمَاعِيلَ، وَهِيَ تُرْضِعُهُ. فَسَارُوا حَتَّى وَصَلُوا إِلَى وَادٍ\Nبَيْنَ الْجِبَالِ.
+Dialogue: 0,0:00:40.19,0:00:48.99,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}He set them down at the site of the House, by a great tree, just above where Zamzam is, in the upper\Npart of where the Mosque stands.
+Dialogue: 0,0:00:40.19,0:00:48.99,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,936)\fnAmiri\fs100\c&HFFFFFF&}فَوَضَعَهُمَا عِنْدَ مَكَانِ الْبَيْتِ، عِنْدَ شَجَرَةٍ كَبِيرَةٍ، فَوْقَ مَكَانِ زَمْزَمَ، فِي أَعْلَى الْمَسْجِدِ.
+Dialogue: 0,0:00:48.99,0:00:55.47,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}In those days there was no one in Makkah, and there was no water there.
+Dialogue: 0,0:00:48.99,0:00:55.47,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}وَلَيْسَ بِمَكَّةَ يَوْمَئِذٍ أَحَدٌ، وَلَيْسَ بِهَا مَاءٌ.
+Dialogue: 0,0:00:55.47,0:01:04.19,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}He set them down there, and left with them a bag with dates in it, and a waterskin with water in it.
+Dialogue: 0,0:00:55.47,0:01:04.19,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}فَوَضَعَهُمَا هُنَاكَ، وَتَرَكَ عِنْدَهُمَا كِيسًا فِيهِ تَمْرٌ، وَقِرْبَةً فِيهَا مَاءٌ.
+Dialogue: 0,0:01:04.19,0:01:07.95,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Then Ibrahim turned his back and set off.
+Dialogue: 0,0:01:04.19,0:01:07.95,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}ثُمَّ أَدَارَ إِبْرَاهِيمُ ظَهْرَهُ، وَمَشَى.
+Dialogue: 0,0:01:07.95,0:01:20.51,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Isma'il's mother followed him and said: "Ibrahim, where are you going, leaving us in this valley where\Nthere is no human being and nothing at all?"
+Dialogue: 0,0:01:07.95,0:01:20.51,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,936)\fnAmiri\fs100\c&HFFFFFF&}فَتَبِعَتْهُ أُمُّ إِسْمَاعِيلَ، فَقَالَتْ: «يَا إِبْرَاهِيمُ، أَيْنَ تَذْهَبُ وَتَتْرُكُنَا بِهَذَا الْوَادِي الَّذِي لَيْسَ فِيهِ\Nإِنْسٌ وَلَا شَيْءٌ؟»
+Dialogue: 0,0:01:20.51,0:01:26.11,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}She said it to him again and again, and he would not turn to look at her.
+Dialogue: 0,0:01:20.51,0:01:26.11,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}فَقَالَتْ لَهُ ذَلِكَ مَرَّةً بَعْدَ مَرَّةٍ، وَهُوَ لَا يَلْتَفِتُ إِلَيْهَا.
+Dialogue: 0,0:01:26.11,0:01:30.59,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}So she said to him: "Is it Allah who commanded you to do this?"
+Dialogue: 0,0:01:26.11,0:01:30.59,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}فَقَالَتْ لَهُ: «أَاللَّهُ الَّذِي أَمَرَكَ بِهَذَا؟»
+Dialogue: 0,0:01:30.59,0:01:32.91,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}He said: "Yes."
+Dialogue: 0,0:01:30.59,0:01:32.91,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}قَالَ: «نَعَمْ.»
+Dialogue: 0,0:01:32.91,0:01:36.19,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}She said: "Then He will not let us be lost."
+Dialogue: 0,0:01:32.91,0:01:36.19,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}قَالَتْ: «إِذَنْ لَا يُضَيِّعُنَا.»
+Dialogue: 0,0:01:36.19,0:01:38.03,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Then she went back.
+Dialogue: 0,0:01:36.19,0:01:38.03,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}ثُمَّ رَجَعَتْ.
+Dialogue: 0,0:01:38.03,0:01:54.55,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}Ibrahim walked on until he reached the pass, a path through the mountain, where they could not see\Nhim. He turned his face toward the site of the House, raised his hands, and prayed with these words:
+Dialogue: 0,0:01:38.03,0:01:54.55,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,936)\fnAmiri\fs100\c&HFFFFFF&}وَمَشَى إِبْرَاهِيمُ حَتَّى وَصَلَ إِلَى الثَّنِيَّةِ، وَهِيَ طَرِيقٌ فِي الْجَبَلِ، حَيْثُ لَا يَرَوْنَهُ. فَاسْتَقْبَلَ\Nبِوَجْهِهِ مَكَانَ الْبَيْتِ، وَرَفَعَ يَدَيْهِ، وَدَعَا بِهَذِهِ الْكَلِمَاتِ:
+Dialogue: 0,0:01:54.55,0:02:30.90,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs22\c&H7CC8E8&\fsp2}QUR'AN 14 : 37   ·   RECITATION: SHAYKH ABDULAZIZ SALAR RASOUL
+Dialogue: 0,0:01:54.55,0:02:30.90,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,990)\fnInter\fs31\c&HE6E6E6&}"Our Lord, I have settled some of my offspring in a valley without crops, by Your Sacred House — our\NLord, that they may establish prayer. So make the hearts of people incline toward them, and provide\Nthem with fruits, that they may be grateful."
+Dialogue: 0,0:01:54.55,0:02:30.90,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,856)\fnAmiri\fs100\c&HFFFFFF&}﴿رَّبَّنَاۤ إِنِّىۤ أَسۡكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيۡرِ ذِى زَرۡعٍ عِندَ بَيۡتِكَ ٱلۡمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟\Nٱلصَّلَوٰةَ فَٱجۡعَلۡ أَفۡـِٔدَةࣰ مِّنَ ٱلنَّاسِ تَهۡوِىۤ إِلَيۡهِمۡ وَٱرۡزُقۡهُم مِّنَ ٱلثَّمَرَ ٰتِ لَعَلَّهُمۡ يَشۡكُرُونَ﴾
+Dialogue: 0,0:02:30.90,0:02:34.87,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,1030)\fnInter\fs31\c&HE6E6E6&}And the mother and her son stayed alone in the valley.
+Dialogue: 0,0:02:30.90,0:02:34.87,Base,,0,0,0,,{\fad(250,250)}{\an2\pos(960,976)\fnAmiri\fs100\c&HFFFFFF&}وَبَقِيَتِ الْأُمُّ وَابْنُهَا وَحْدَهُمَا فِي الْوَادِي.
+Dialogue: 1,0:00:00.80,0:00:07.50,Base,,0,0,0,,{\fad(700,700)}{\an8\pos(960,70)\fnInter\fs28\fsp6\c&HDDDDDD&}LIFE OF PROPHET MUHAMMAD {\fnAmiri\fs56\fsp0}ﷺ
+Dialogue: 1,0:00:00.80,0:00:07.50,Base,,0,0,0,,{\fad(700,700)}{\an8\pos(960,128)\fnInter\fs24\fsp3\c&H7CC8E8&}VOLUME 1  ·  EPISODE 1
+Dialogue: 1,0:00:00.80,0:00:07.50,Base,,0,0,0,,{\fad(700,700)}{\an8\pos(960,165)\fnAmiri\fs130\c&HFFFFFF&}وَادٍ غَيْرُ ذِي زَرْعٍ
+Dialogue: 1,0:00:00.80,0:00:07.50,Base,,0,0,0,,{\fad(700,700)}{\an8\pos(960,300)\fnInter\fs38\c&HFFFFFF&}A Valley Without Crops

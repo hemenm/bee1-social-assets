@@ -20,6 +20,8 @@ Volume 1 is animated **one episode at a time, in order**, using the same tools a
 
 When an episode is `done`, it is assembled: the clips are cut to the episode narration and recitation, with the same Arabic/English cards, logo, titles and layout as the still series. Arabic text is never drawn by an image or video model. It is always composited (Amiri font). The animation is made at 16:9; vertical versions are cropped from it.
 
+When Volume 1 is finished, the episodes are joined into one continuous film. So each episode is also kept as a **textless master** (picture and narration only), with its text in a separate subtitle file (`episodes/epNN/epNN.ass`), and episodes should flow into each other without per-episode end cards. `tools/build_episode.py` cuts an episode from its beat plan (short dissolves, reused clips sped or trimmed to fit) and `tools/make_subtitles.py` writes the Arabic (Amiri) and English subtitle file.
+
 ## Style
 
 **3D animated film.** Feature-animation quality CG: soft global illumination, warm golden-hour and moonlit palettes, stylised but grounded proportions, rich textures (sand, stone, cloth, palm). Arabian Peninsula, 6th century: no modern objects, no anachronistic architecture. Camera moves are slow and deliberate. Landscape and atmosphere shots may drift dreamily. Narrative action stays at natural speed.
@@ -41,3 +43,5 @@ Use the same style words in every prompt so the series stays consistent. Once th
 - `v01/source/`: each episode's narration audio, paragraph timings and text.
 - `v01/beats/`: the beat plan for each episode.
 - `v01/keyframes/`, `v01/clips/`: generated output.
+- `v01/episodes/`: assembled episodes (a web-size cut and the subtitle file).
+- `v01/tools/`: the episode build scripts.
