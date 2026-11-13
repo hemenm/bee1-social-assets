@@ -1,0 +1,416 @@
+{
+ "episode": 2,
+ "duration_s": 234.21,
+ "audio": "source/ep02.mp3",
+ "notes": "Planned 2026-11-13, no credits spent. 169s of new Seedance clips needed (about 2704 credits at 1080p, 1183 at 720p) plus ~2 credits per keyframe. Hajar and the angel are never shown: their scenes use point of view, objects, light and the people around them.",
+ "shots": [
+  {
+   "shot": 1,
+   "start": 0.0,
+   "end": 12.4,
+   "paragraphs": [
+    1,
+    2
+   ],
+   "description": "Days pass over the lone tree: shadows sweep around it in a slow timelapse, the waterskin in its shade slowly sagging empty. No people.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 12,
+   "credits_spent": null
+  },
+  {
+   "shot": 2,
+   "start": 12.4,
+   "end": 17.4,
+   "paragraphs": [
+    3
+   ],
+   "description": "The empty waterskin on cracked earth.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s02.mp4 (5s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 3,
+   "start": 17.4,
+   "end": 22.7,
+   "paragraphs": [
+    3
+   ],
+   "description": "Harsh noon under the tree: the cradle cloth trembles and stirs. Only the cloth moves; no child, no figure visible.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 5,
+   "credits_spent": null
+  },
+  {
+   "shot": 4,
+   "start": 22.7,
+   "end": 28.6,
+   "paragraphs": [
+    4
+   ],
+   "description": "Her point of view walking away from the tree toward the nearest rocky hill, Safa. No figure.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 6,
+   "credits_spent": null
+  },
+  {
+   "shot": 5,
+   "start": 28.6,
+   "end": 37.0,
+   "paragraphs": [
+    5
+   ],
+   "description": "POV climbing the rocky slope of Safa, stones shifting, the summit ahead. No figure, no hands.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 8,
+   "credits_spent": null
+  },
+  {
+   "shot": 6,
+   "start": 37.0,
+   "end": 42.0,
+   "paragraphs": [
+    5,
+    6
+   ],
+   "description": "From the top of Safa: the empty plain. She saw no one.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s03.mp4 (5s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 7,
+   "start": 42.0,
+   "end": 51.0,
+   "paragraphs": [
+    7
+   ],
+   "description": "Hurried POV running across the valley floor, dust kicking up, the far hill of Marwa ahead. No figure.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 9,
+   "credits_spent": null
+  },
+  {
+   "shot": 8,
+   "start": 51.0,
+   "end": 56.4,
+   "paragraphs": [
+    7
+   ],
+   "description": "Hurried footprints running between the two hills.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s04.mp4 (5s, play at ~0.93x)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 9,
+   "start": 56.4,
+   "end": 66.0,
+   "paragraphs": [
+    8
+   ],
+   "description": "POV climbing Marwa and turning to look back across the valley toward Safa: empty. No figure.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 10,
+   "credits_spent": null
+  },
+  {
+   "shot": 10,
+   "start": 66.0,
+   "end": 76.2,
+   "paragraphs": [
+    9,
+    10
+   ],
+   "description": "High wide view of the valley between Safa and Marwa as the sun arcs across the sky: a worn trail of countless footprints back and forth between the two hills.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 10,
+   "credits_spent": null
+  },
+  {
+   "shot": 11,
+   "start": 76.2,
+   "end": 81.2,
+   "paragraphs": [
+    11
+   ],
+   "description": "The hush on Marwa.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s05.mp4 (5s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 12,
+   "start": 81.2,
+   "end": 88.1,
+   "paragraphs": [
+    12
+   ],
+   "description": "Total stillness on Marwa: dust motes hang in the air, a faint glow, as if listening. No figure.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 7,
+   "credits_spent": null
+  },
+  {
+   "shot": 13,
+   "start": 88.1,
+   "end": 96.8,
+   "paragraphs": [
+    13
+   ],
+   "description": "POV from Marwa turning down toward the valley floor, where a soft light glows at a spot near the lone tree.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 9,
+   "credits_spent": null
+  },
+  {
+   "shot": 14,
+   "start": 96.8,
+   "end": 106.4,
+   "paragraphs": [
+    14
+   ],
+   "description": "A column of soft light over the dry ground near the tree; the earth cracks and clear water bursts up. Light and stillness only: no angel, no wings, no figure.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 10,
+   "credits_spent": null
+  },
+  {
+   "shot": 15,
+   "start": 106.4,
+   "end": 111.4,
+   "paragraphs": [
+    15
+   ],
+   "description": "Water filling the little basin of piled sand and stones.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s06.mp4 (5s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 16,
+   "start": 111.4,
+   "end": 118.5,
+   "paragraphs": [
+    15
+   ],
+   "description": "Close: the open waterskin at the edge of the basin as water flows into it, and the spring keeps welling up. No hands.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 7,
+   "credits_spent": null
+  },
+  {
+   "shot": 17,
+   "start": 118.5,
+   "end": 135.1,
+   "paragraphs": [
+    16
+   ],
+   "description": "The spring overflows its basin and starts to run as a little stream across the sand, then gently settles back into the basin. 'It would have been a flowing spring.'",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 15,
+   "credits_spent": null
+  },
+  {
+   "shot": 18,
+   "start": 135.1,
+   "end": 141.5,
+   "paragraphs": [
+    17
+   ],
+   "description": "Peace under the tree: the full waterskin, dates, the cradle cloth still and calm in soft light. No figure.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 6,
+   "credits_spent": null
+  },
+  {
+   "shot": 19,
+   "start": 141.5,
+   "end": 151.5,
+   "paragraphs": [
+    18
+   ],
+   "description": "The angel's words: light on the mound, the site of the House, the spring glittering.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s07.mp4 (10s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 20,
+   "start": 151.5,
+   "end": 162.7,
+   "paragraphs": [
+    19
+   ],
+   "description": "The site of the House raised like a small hill; floods pass to its right and left.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep03-s05.mp4 (10s, play at ~0.89x)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 21,
+   "start": 162.7,
+   "end": 176.4,
+   "paragraphs": [
+    20
+   ],
+   "description": "A Jurhum caravan comes down the road of Kada' through a mountain pass and makes camp in the lower part of the valley at dusk. Only men in focus.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 14,
+   "credits_spent": null
+  },
+  {
+   "shot": 22,
+   "start": 176.4,
+   "end": 181.4,
+   "paragraphs": [
+    21
+   ],
+   "description": "Jurhum see the bird circling.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s08.mp4 (5s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  },
+  {
+   "shot": 23,
+   "start": 181.4,
+   "end": 189.2,
+   "paragraphs": [
+    22
+   ],
+   "description": "Jurhum men on their camels talk and point up at the bird, puzzled: this valley never had water.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 8,
+   "credits_spent": null
+  },
+  {
+   "shot": 24,
+   "start": 189.2,
+   "end": 198.3,
+   "paragraphs": [
+    23
+   ],
+   "description": "Two Jurhum scouts crest a rise and discover the spring glittering by the lone tree; they turn and wave back to the camp.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 9,
+   "credits_spent": null
+  },
+  {
+   "shot": 25,
+   "start": 198.3,
+   "end": 214.6,
+   "paragraphs": [
+    24
+   ],
+   "description": "Her point of view from beside the spring: Jurhum elders approach respectfully, stop at a distance, hands on their chests, asking leave to settle. She is never shown.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 15,
+   "credits_spent": null
+  },
+  {
+   "shot": 26,
+   "start": 214.6,
+   "end": 224.1,
+   "paragraphs": [
+    25
+   ],
+   "description": "Dusk near the spring: cooking smoke rising from new tents, voices and company; the lone tree is no longer alone.",
+   "source": "new",
+   "status": "todo",
+   "keyframe": null,
+   "clip": null,
+   "clip_seconds": 9,
+   "credits_spent": null
+  },
+  {
+   "shot": 27,
+   "start": 224.1,
+   "end": 234.21,
+   "paragraphs": [
+    26
+   ],
+   "description": "They settle and send for their families: tents pitched around the spring.",
+   "source": "reuse",
+   "status": "done",
+   "keyframe": null,
+   "clip": "library/clips/v01-ep02-s09.mp4 (10s)",
+   "clip_seconds": null,
+   "credits_spent": 0
+  }
+ ]
+}

@@ -22,8 +22,8 @@
   {
    "episode": 2,
    "duration_s": 234.21,
-   "status": "todo",
-   "beat_plan": null,
+   "status": "in progress",
+   "beat_plan": "beats/ep02.json",
    "credits_spent": 0,
    "months": []
   },
