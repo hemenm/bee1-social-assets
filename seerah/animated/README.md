@@ -26,10 +26,9 @@ Use the same style words in every prompt so the series stays consistent. Once th
 ## Depiction rules (mandatory)
 
 - **Prophets** (Muhammad ﷺ, Ibrahim, Isma'il and every other prophet): never shown in any form. That includes no silhouette, no hands, no shadow and no back view. Their presence is told through the camera's point of view, the environment and the people around them.
-- **Prophets' families** (e.g. Hajar, Isma'il's wives, Amina, Khadijah): never shown in any form, the same as prophets.
-- **Prophet Muhammad ﷺ's forefathers** (Abd al-Muttalib, Abdullah): treated as family and not shown, until Hemen confirms otherwise.
+- **Prophets' wives** (e.g. Hajar, both of Isma'il's wives, Khadijah and the other Mothers of the Believers): never shown in any form, the same as prophets.
 - **Angels**: never shown in any form. Their presence is light and stillness only.
-- **Everyone else** (Abraha, Qusayy, Jurhum, Khuza'a, Quraysh, soldiers, townspeople…): full animated performance is allowed.
+- **Everyone else** may be fully animated, including the Prophet ﷺ's relatives who are not wives: Abd al-Muttalib, Abdullah, Amina, as well as Abraha, Qusayy, Jurhum, Khuza'a, Quraysh, soldiers and townspeople.
 - **Modesty**: every woman shown has her hair covered and sleeves to the wrist, with only the hands uncovered.
 - **No implied depiction**: no figure may appear on screen in a way that suggests it is a prophet, for example under a prophet's name or in a prophet's place in the story.
 
