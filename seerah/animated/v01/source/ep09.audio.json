@@ -1,0 +1,127 @@
+{
+ "file": "audio/episodes/ep09.mp3",
+ "duration_s": 158.59,
+ "narrator": "Arthur (ElevenLabs)",
+ "cards": [
+  {
+   "paragraph": 1,
+   "start": 0.4,
+   "end": 6.461,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 2,
+   "start": 7.061,
+   "end": 13.251,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 3,
+   "start": 13.851,
+   "end": 21.097,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 4,
+   "start": 21.697,
+   "end": 28.195,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 5,
+   "start": 28.795,
+   "end": 35.639,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 6,
+   "start": 36.239,
+   "end": 39.623,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 7,
+   "start": 40.223,
+   "end": 49.122,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 8,
+   "start": 49.722,
+   "end": 59.293,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 9,
+   "start": 59.893,
+   "end": 63.093,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 10,
+   "start": 63.693,
+   "end": 71.159,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 11,
+   "start": 71.759,
+   "end": 85.627,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 12,
+   "start": 86.227,
+   "end": 97.261,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 13,
+   "start": 97.861,
+   "end": 104.631,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 14,
+   "start": 105.231,
+   "end": 119.172,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 15,
+   "start": 119.772,
+   "end": 125.882,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 16,
+   "start": 126.482,
+   "end": 131.163,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 17,
+   "start": 131.763,
+   "end": 135.112,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 18,
+   "start": 135.712,
+   "end": 141.908,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 19,
+   "start": 142.508,
+   "end": 151.031,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 20,
+   "start": 151.631,
+   "end": 158.147,
+   "speaker": "Arthur"
+  }
+ ]
+}

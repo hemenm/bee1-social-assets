@@ -1,0 +1,368 @@
+{
+ "number": 5,
+ "title_ar": "كَيْفَ دَخَلَتِ الْأَصْنَامُ",
+ "title_en": "How the Idols Came",
+ "summary_en": "The slow drift from Ibrahim's religion; Amr ibn Luhayy brings Hubal to Makkah.",
+ "paragraphs": [
+  {
+   "ar": "وَكَثُرَ أَوْلَادُ إِسْمَاعِيلَ، وَكَثُرَ النَّاسُ فِي مَكَّةَ، حَتَّى ضَاقَتْ بِهِمْ.",
+   "en": "The children of Isma'il multiplied, and the people of Makkah grew many — until the valley became too small for them.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Ibn Ishaq introduces this account with ويزعمون — they claim. Paragraphs 1–5 carry that hedge."
+  },
+  {
+   "ar": "فَخَرَجَ كَثِيرٌ مِنْهُمْ يَبْحَثُونَ عَنْ أَرْضٍ أُخْرَى.",
+   "en": "So many of them left, looking for other land.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَيُقَالُ إِنَّ عِبَادَةَ الْحِجَارَةِ بَدَأَتْ هَكَذَا: كَانُوا يُعَظِّمُونَ الْحَرَمَ، فَكَانَ الرَّجُلُ مِنْهُمْ إِذَا خَرَجَ مِنْ مَكَّةَ، حَمَلَ مَعَهُ حَجَرًا مِنْ حِجَارَةِ الْحَرَمِ.",
+   "en": "It is said that the worship of stones began like this: they held the Sanctuary in great honour, so whenever a man left Makkah, he would carry with him a stone from the stones of the Sanctuary.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Ibn Ishaq introduces this account with ويزعمون أن أول ما كانت عبادة الحجارة في بني إسماعيل — 'they claim'. The hedge is now in the text (ويقال), not only in this note. تعظيما للحرم → يعظمون الحرم (the old card said 'loved')."
+  },
+  {
+   "ar": "فَإِذَا نَزَلُوا فِي مَكَانٍ، وَضَعُوا الْحَجَرَ، وَطَافُوا حَوْلَهُ، كَمَا يَطُوفُونَ حَوْلَ الْكَعْبَةِ.",
+   "en": "Wherever they settled, they set the stone down and walked around it, as they walked around the Kaaba.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَمَرَّتِ السِّنُونَ. وَنَسِيَ الْأَبْنَاءُ لِمَاذَا كَانَ الْآبَاءُ يَفْعَلُونَ ذَلِكَ. فَصَارُوا يَعْبُدُونَ الْحِجَارَةَ.",
+   "en": "The years passed. The sons forgot why their fathers had done this. And they began to worship the stones.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: حتى خلف الخلوف ونسوا ما كانوا عليه ... فعبدوا الأوثان."
+  },
+  {
+   "ar": "وَكَانَ فِي مَكَّةَ رَجُلٌ اسْمُهُ عَمْرُو بْنُ لُحَيٍّ. سَافَرَ إِلَى الشَّامِ، فَرَأَى قَوْمًا يَعْبُدُونَ الْأَصْنَامَ.",
+   "en": "In Makkah there was a man named Amr ibn Luhayy. He travelled to Syria, and saw a people worshipping idols.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — 'some people of knowledge told me'"
+   ],
+   "note": "Ibn Hisham's own chain here is anonymous (حدثني بعض أهل العلم). Location: Ma'ab in al-Balqa, among the Amalekites."
+  },
+  {
+   "ar": "فَقَالَ لَهُمْ: «مَا هَذِهِ الْأَصْنَامُ؟» قَالُوا: «نَطْلُبُ مِنْهَا الْمَطَرَ فَتُمْطِرُنَا، وَنَطْلُبُ مِنْهَا النَّصْرَ فَتَنْصُرُنَا.»",
+   "en": "He asked them: \"What are these idols?\" They said: \"We ask them for rain and they send us rain; we ask them for victory and they give us victory.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira"
+   ],
+   "note": "Simplified from: نستمطرها فتمطرنا ونستنصرها فتنصرنا."
+  },
+  {
+   "ar": "فَقَالَ: «أَلَا تُعْطُونَنِي صَنَمًا، أَحْمِلُهُ إِلَى أَرْضِ الْعَرَبِ؟» فَأَعْطَوْهُ صَنَمًا اسْمُهُ هُبَلُ.",
+   "en": "He said: \"Won't you give me an idol to carry back to the land of the Arabs?\" So they gave him an idol called Hubal.",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira"
+   ]
+  },
+  {
+   "ar": "فَجَاءَ بِهِ إِلَى مَكَّةَ، وَنَصَبَهُ، وَأَمَرَ النَّاسَ أَنْ يَعْبُدُوهُ.",
+   "en": "He brought it to Makkah, set it up, and ordered the people to worship it.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira"
+   ],
+   "note": "Hubal returns in episode 8, inside the Kaaba."
+  },
+  {
+   "ar": "وَجَاءَتْ بَعْدَهُ أَصْنَامٌ أُخْرَى، حَتَّى صَارَ حَوْلَ الْبَيْتِ الَّذِي بَنَاهُ إِبْرَاهِيمُ أَصْنَامٌ كَثِيرَةٌ.",
+   "en": "Other idols came after it — until there were many idols around the House that Ibrahim had built.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira"
+   ]
+  },
+  {
+   "ar": "وَلَكِنَّهُمْ لَمْ يَنْسَوْا كُلَّ شَيْءٍ. بَقِيَ عِنْدَهُمْ شَيْءٌ مِنْ دِينِ إِبْرَاهِيمَ: كَانُوا يُعَظِّمُونَ الْبَيْتَ، وَيَطُوفُونَ حَوْلَهُ، وَيَحُجُّونَ.",
+   "en": "Yet they had not forgotten everything. Something of Ibrahim's religion remained with them: they honoured the House, walked around it, and made the pilgrimage.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَكَانَتْ كِنَانَةُ وَقُرَيْشٌ، إِذَا حَجُّوا، يَقُولُونَ: «لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ، إِلَّا شَرِيكٌ هُوَ لَكَ، تَمْلِكُهُ وَمَا مَلَكَ.»",
+   "en": "When Kinana and Quraysh made the pilgrimage, they would call out: \"Here I am, O Allah, here I am. Here I am, You have no partner, except a partner who is Yours: You own him, and all he owns.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "check": "تملكه وما ملك",
+   "note": "Ibn Hisham's wording, cited to him alone (the old card blended in Muslim's إلا شريكا). He names the speakers: كنانة وقريش إذا أهلوا. The same words, as Muslim reports them, are in the next card."
+  },
+  {
+   "ar": "كَانُوا يَذْكُرُونَ اللَّهَ، ثُمَّ يُدْخِلُونَ مَعَهُ أَصْنَامَهُمْ.",
+   "en": "They would remember Allah — and then bring their idols in alongside Him.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: فيوحدونه بالتلبية ثم يدخلون معه أصنامهم."
+  },
+  {
+   "ar": "وَبَعْدَ زَمَنٍ طَوِيلٍ، كَانَ الْمُشْرِكُونَ يَقُولُونَ: «لَبَّيْكَ لَا شَرِيكَ لَكَ»، فَيَقُولُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «وَيْلَكُمْ، قَدْ قَدْ!» فَيَقُولُونَ: «إِلَّا شَرِيكًا هُوَ لَكَ، تَمْلِكُهُ وَمَا مَلَكَ». يَقُولُونَ هَذَا وَهُمْ يَطُوفُونَ بِالْبَيْتِ.",
+   "en": "Long afterwards, the idolaters would say: \"Here I am, You have no partner,\" and the Messenger of Allah ﷺ would say: \"Woe to you, enough, enough!\" But they would go on: \"…except a partner who is Yours: You own him and all he owns.\" They said this while circling the House.",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Muslim 1185 — Ibn Abbas"
+   ],
+   "quote": {
+    "text": "وَيْلَكُمْ قَدْ قَدْ",
+    "tier": 1,
+    "sources": [
+     "muslim"
+    ]
+   },
+   "note": "Every detail restored: the old card dropped تملكه وما ملك and 'while circling the House', and its English added 'Stop there'. All words in «» are exact. Labelled retold only because the narrator's قال before فيقول is left out. قد قد = enough, enough.",
+   "cite": "Muslim 1185",
+   "wording": "retold",
+   "lead": "وَبَعْدَ زَمَنٍ طَوِيلٍ، ",
+   "source": "كَانَ الْمُشْرِكُونَ يَقُولُونَ لَبَّيْكَ لَا شَرِيكَ لَكَ قَالَ فَيَقُولُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيْلَكُمْ قَدْ قَدْ فَيَقُولُونَ إِلَّا شَرِيكًا هُوَ لَكَ تَمْلِكُهُ وَمَا مَلَكَ يَقُولُونَ هَذَا وَهُمْ يَطُوفُونَ بِالْبَيْتِ",
+   "_verified": {
+    "tier": 1,
+    "source": "muslim",
+    "row": 2031,
+    "tashkeel_changes": []
+   },
+   "citation": "Retold from Muslim 1185"
+  },
+  {
+   "ar": "وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «رَأَيْتُ عَمْرَو بْنَ لُحَيِّ بْنِ قَمَعَةَ بْنِ خِنْدِفَ أَبَا بَنِي كَعْبٍ هَؤُلَاءِ يَجُرُّ قُصْبَهُ فِي النَّارِ.»",
+   "en": "And the Messenger of Allah ﷺ said: \"I saw Amr ibn Luhayy ibn Qama'a ibn Khindif, the father of these Banu Ka'b, dragging his entrails in the Fire.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Muslim 2856a — Abu Hurayra"
+   ],
+   "quote": {
+    "text": "رَأَيْتُ عَمْرَو بْنَ لُحَيِّ بْنِ قَمَعَةَ بْنِ خِنْدِفَ أَبَا بَنِي كَعْبٍ هَؤُلَاءِ يَجُرُّ قُصْبَهُ فِي النَّارِ",
+    "tier": 1,
+    "sources": [
+     "muslim"
+    ]
+   },
+   "note": "Words exact. Vowel only: our dataset reads قَمْعَةَ; sunnah.com and Bukhari 3520 read قَمَعَةَ, which is used here.",
+   "cite": "Muslim 2856a",
+   "_verified": {
+    "tier": 1,
+    "source": "muslim",
+    "row": 5095,
+    "tashkeel_changes": [
+     "قَمْعَةَ → قَمَعَةَ"
+    ]
+   },
+   "citation": "Muslim 2856a"
+  },
+  {
+   "ar": "وَقَالَ عَنْهُ: «إِنَّهُ كَانَ أَوَّلَ مَنْ غَيَّرَ دِينَ إِسْمَاعِيلَ، فَنَصَبَ الْأَوْثَانَ.»",
+   "en": "And he said of him: \"He was the first to change the religion of Isma'il, and set up the idols.\"",
+   "voice": "prophet",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira",
+    "Ibn Kathir, al-Bidaya"
+   ],
+   "quote": {
+    "text": "إنه كان أول من غير دين إسماعيل فنصب الأوثان",
+    "tier": 2,
+    "sources": [
+     "ibn-hisham-sira",
+     "ibn-kathir-bidaya"
+    ]
+   },
+   "vocalized_by_editor": true,
+   "note": "Tier 2: not found in the nine hadith books. Two witnesses agree word for word. Contiguous excerpt from the reply to Aktham ibn al-Jawn. Ibn Kathir remarks that it is not in the canonical books by this route (ليس في الكتب من هذا الوجه). Tashkeel supplied by the editor — review the vocalization specifically.",
+   "cite": "Ibn Hisham, Sira",
+   "_verified": {
+    "tier": 2,
+    "witnesses": [
+     "ibn-hisham-sira",
+     "ibn-kathir-bidaya"
+    ]
+   },
+   "citation": "Ibn Hisham, Sira"
+  },
+  {
+   "ar": "الْبَيْتُ الَّذِي بُنِيَ لِلَّهِ وَحْدَهُ، صَارَ مَمْلُوءًا بِالْأَصْنَامِ.",
+   "en": "The House that was built for Allah alone was now full of idols.",
+   "voice": "narration",
+   "grade": [
+    "narration"
+   ],
+   "refs": []
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep05.mp3",
+  "duration_s": 162.95,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.4,
+    "end": 6.502,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 7.102,
+    "end": 11.244,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 11.844,
+    "end": 23.872,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 24.472,
+    "end": 31.993,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 32.593,
+    "end": 41.692,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 42.292,
+    "end": 50.628,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 51.228,
+    "end": 60.485,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 61.085,
+    "end": 69.532,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 70.132,
+    "end": 75.696,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 76.296,
+    "end": 84.479,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 85.079,
+    "end": 96.189,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 96.789,
+    "end": 109.852,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 110.452,
+    "end": 114.57,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 115.17,
+    "end": 136.533,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 137.133,
+    "end": 149.535,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 16,
+    "start": 150.135,
+    "end": 156.483,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 17,
+    "start": 157.083,
+    "end": 162.5,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

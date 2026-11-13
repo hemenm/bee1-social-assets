@@ -1,0 +1,448 @@
+{
+ "number": 8,
+ "title_ar": "النَّذْرُ",
+ "title_en": "The Vow",
+ "summary_en": "Abd al-Muttalib's vow to sacrifice a son; the arrows fall on Abdullah; he is ransomed with a hundred camels.",
+ "paragraphs": [
+  {
+   "ar": "وَيُرْوَى — وَاللَّهُ أَعْلَمُ — أَنَّ عَبْدَ الْمُطَّلِبِ، حِينَ خَاصَمَتْهُ قُرَيْشٌ فِي زَمْزَمَ، نَذَرَ نَذْرًا عَظِيمًا.",
+   "en": "It is told — and Allah knows best — that when Quraysh quarrelled with Abd al-Muttalib over Zamzam, he made a great vow.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Ibn Ishaq opens this account with فيما يزعمون والله أعلم. The hedge is carried into the text for the reader, not only into this note."
+  },
+  {
+   "ar": "نَذَرَ: إِذَا جَاءَهُ عَشَرَةُ أَبْنَاءٍ، وَكَبِرُوا حَتَّى يَحْمُوهُ، أَنْ يَذْبَحَ وَاحِدًا مِنْهُمْ لِلَّهِ عِنْدَ الْكَعْبَةِ.",
+   "en": "He vowed that if he were given ten sons, and they grew up to protect him, he would sacrifice one of them to Allah at the Kaaba.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَمَرَّتِ السِّنُونَ، وَصَارَ لَهُ عَشَرَةُ أَبْنَاءٍ.",
+   "en": "The years passed, and he came to have ten sons.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَجَمَعَهُمْ، وَأَخْبَرَهُمْ بِنَذْرِهِ. فَأَطَاعُوهُ وَقَالُوا: «كَيْفَ نَفْعَلُ؟»",
+   "en": "He gathered them and told them of his vow. They obeyed him and said: \"What should we do?\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "قَالَ: «لِيَكْتُبْ كُلُّ وَاحِدٍ مِنْكُمُ اسْمَهُ عَلَى سَهْمٍ.»",
+   "en": "He said: \"Let each of you write his name on an arrow.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "ثُمَّ دَخَلَ بِهِمْ إِلَى الْكَعْبَةِ، عِنْدَ صَنَمٍ اسْمُهُ هُبَلُ. وَكَانَتْ قُرَيْشٌ تَضْرِبُ السِّهَامَ عِنْدَهُ، لِتَعْرِفَ مَا تَفْعَلُ.",
+   "en": "Then he took them into the Kaaba, to an idol called Hubal. Quraysh used to cast arrows before it, to learn what they should do.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Hubal from episode 5, now inside the House. Pre-Islamic divination narrated as the source reports it, without endorsement."
+  },
+  {
+   "ar": "وَكَانَ أَصْغَرُ أَبْنَائِهِ عَبْدَ اللَّهِ. وَكَانَ — فِيمَا يُقَالُ — أَحَبَّهُمْ إِلَيْهِ.",
+   "en": "The youngest of his sons was Abdullah — and, it is said, the one he loved most.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Second hedge in the source: وكان عبد الله- فيما يزعمون- أحب ولد عبد المطلب إليه."
+  },
+  {
+   "ar": "وَضُرِبَتِ السِّهَامُ، فَخَرَجَ السَّهْمُ عَلَى عَبْدِ اللَّهِ.",
+   "en": "The arrows were cast — and the arrow fell on Abdullah.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَأَخَذَهُ عَبْدُ الْمُطَّلِبِ بِيَدِهِ، وَأَخَذَ السِّكِّينَ.",
+   "en": "Abd al-Muttalib took him by the hand, and took up the knife.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَقَامَتْ إِلَيْهِ قُرَيْشٌ وَقَالُوا: «مَاذَا تُرِيدُ يَا عَبْدَ الْمُطَّلِبِ؟» قَالَ: «أَذْبَحُهُ.»",
+   "en": "Quraysh rose and came to him, saying: \"What do you intend, Abd al-Muttalib?\" He said: \"To sacrifice him.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَقَالُوا: «وَاللَّهِ لَا تَذْبَحُهُ أَبَدًا، حَتَّى تَبْحَثَ عَنْ عُذْرٍ! لَوْ فَعَلْتَ هَذَا، لَجَاءَ كُلُّ رَجُلٍ بِابْنِهِ لِيَذْبَحَهُ.»",
+   "en": "They said: \"By Allah, you will never sacrifice him, not until you have looked for a way out! If you did this, every man would come with his son to sacrifice him.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: والله لا تذبحه أبدا حتى تعذر فيه. The old card dropped the condition, which is what leads to the fortune-teller."
+  },
+  {
+   "ar": "وَقَالُوا لَهُ: «اذْهَبْ إِلَى عَرَّافَةٍ فِي الْحِجَازِ، وَاسْأَلْهَا.»",
+   "en": "And they told him: \"Go to a fortune-teller in the Hijaz, and ask her.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَذَهَبُوا إِلَيْهَا. فَسَأَلَتْهُمْ: «كَمِ الدِّيَةُ عِنْدَكُمْ؟» قَالُوا: «عَشْرٌ مِنَ الْإِبِلِ.»",
+   "en": "So they went to her. She asked them: \"What is the blood-price among you?\" They said: \"Ten camels.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "قَالَتْ: «ارْجِعُوا، وَضَعُوا صَاحِبَكُمْ وَعَشْرًا مِنَ الْإِبِلِ، وَاضْرِبُوا بِالسِّهَامِ. فَإِنْ خَرَجَ السَّهْمُ عَلَيْهِ، فَزِيدُوا مِنَ الْإِبِلِ، حَتَّى يَرْضَى رَبُّكُمْ.»",
+   "en": "She said: \"Go back. Set your man beside ten camels and cast the arrows. If the arrow falls on him, add more camels, until your Lord is satisfied.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: فإن خرجت على صاحبكم فزيدوا من الإبل حتى يرضى ربكم. She does not say 'ten more'; the steps of ten are what they did next."
+  },
+  {
+   "ar": "فَرَجَعُوا إِلَى مَكَّةَ. وَقَامَ عَبْدُ الْمُطَّلِبِ يَدْعُو اللَّهَ.",
+   "en": "They returned to Makkah. And Abd al-Muttalib stood praying to Allah.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "ضَرَبُوا السِّهَامَ عَلَى عَبْدِ اللَّهِ وَعَشْرٍ مِنَ الْإِبِلِ، فَخَرَجَ السَّهْمُ عَلَى عَبْدِ اللَّهِ. فَصَارَتِ الْإِبِلُ عِشْرِينَ.",
+   "en": "They cast the arrows over Abdullah and ten camels — and the arrow fell on Abdullah. So the camels became twenty.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَخَرَجَ عَلَى عَبْدِ اللَّهِ، فَصَارَتْ ثَلَاثِينَ. فَخَرَجَ عَلَى عَبْدِ اللَّهِ، فَصَارَتْ أَرْبَعِينَ. فَخَرَجَ عَلَى عَبْدِ اللَّهِ، فَصَارَتْ خَمْسِينَ.",
+   "en": "It fell on Abdullah — thirty. It fell on Abdullah — forty. It fell on Abdullah — fifty.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "The source counts every step from ten to a hundred. Kept for the number drilling."
+  },
+  {
+   "ar": "سِتِّينَ. سَبْعِينَ. ثَمَانِينَ. تِسْعِينَ.",
+   "en": "Sixty. Seventy. Eighty. Ninety.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَكُلَّ مَرَّةٍ، يَخْرُجُ السَّهْمُ عَلَى عَبْدِ اللَّهِ، وَعَبْدُ الْمُطَّلِبِ قَائِمٌ يَدْعُو اللَّهَ.",
+   "en": "And each time the arrow fell on Abdullah, while Abd al-Muttalib stood praying to Allah.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَلَمَّا صَارَتِ الْإِبِلُ مِئَةً، ضَرَبُوا، فَخَرَجَ السَّهْمُ عَلَى الْإِبِلِ.",
+   "en": "When the camels reached one hundred, they cast again — and the arrow fell on the camels.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَقَالَتْ قُرَيْشٌ: «قَدْ رَضِيَ رَبُّكَ يَا عَبْدَ الْمُطَّلِبِ.» فَقَالَ — فِيمَا يُقَالُ —: «لَا وَاللَّهِ، حَتَّى أَضْرِبَ عَلَيْهَا ثَلَاثَ مَرَّاتٍ.»",
+   "en": "Quraysh said: \"Your Lord is satisfied, Abd al-Muttalib.\" But he said — so it is told — \"No, by Allah, not until I cast over them three times.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Third hedge in the source: فزعموا أن عبد المطلب قال."
+  },
+  {
+   "ar": "فَضَرَبُوا ثَلَاثَ مَرَّاتٍ. وَفِي كُلِّ مَرَّةٍ، خَرَجَ السَّهْمُ عَلَى الْإِبِلِ.",
+   "en": "So they cast three times. And each time, the arrow fell on the camels.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَذُبِحَتِ الْإِبِلُ الْمِئَةُ، وَتُرِكَتْ لِلنَّاسِ، لَا يُمْنَعُ عَنْهَا أَحَدٌ.",
+   "en": "So the hundred camels were sacrificed, and left for the people; no one was kept from them.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَنَجَا عَبْدُ اللَّهِ.",
+   "en": "And Abdullah was saved.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "عَبْدُ اللَّهِ هَذَا سَيَكُونُ أَبًا لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+   "en": "This Abdullah would become the father of the Messenger of Allah ﷺ.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: وهو أبو رسول الله صلى الله عليه وسلم."
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep08.mp3",
+  "duration_s": 183.72,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.4,
+    "end": 9.123,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 9.723,
+    "end": 18.537,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 19.137,
+    "end": 22.79,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 23.39,
+    "end": 29.513,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 30.113,
+    "end": 34.624,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 35.224,
+    "end": 45.089,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 45.689,
+    "end": 52.273,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 52.873,
+    "end": 56.783,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 57.383,
+    "end": 60.969,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 61.569,
+    "end": 68.26,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 68.86,
+    "end": 78.737,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 79.337,
+    "end": 84.428,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 85.028,
+    "end": 92.438,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 93.038,
+    "end": 105.606,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 106.206,
+    "end": 110.603,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 16,
+    "start": 111.203,
+    "end": 120.544,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 17,
+    "start": 121.144,
+    "end": 132.141,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 18,
+    "start": 132.741,
+    "end": 137.086,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 19,
+    "start": 137.686,
+    "end": 145.408,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 20,
+    "start": 146.008,
+    "end": 151.085,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 21,
+    "start": 151.685,
+    "end": 161.944,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 22,
+    "start": 162.544,
+    "end": 168.226,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 23,
+    "start": 168.826,
+    "end": 174.846,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 24,
+    "start": 175.446,
+    "end": 177.19,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 25,
+    "start": 177.79,
+    "end": 183.275,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

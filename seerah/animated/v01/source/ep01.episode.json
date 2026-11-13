@@ -1,0 +1,362 @@
+{
+ "number": 1,
+ "title_ar": "وَادٍ غَيْرُ ذِي زَرْعٍ",
+ "title_en": "A Valley Without Crops",
+ "summary_en": "Ibrahim brings Hajar and the infant Isma'il to an empty valley and leaves them there.",
+ "paragraphs": [
+  {
+   "ar": "كَانَ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ نَبِيًّا مِنْ أَنْبِيَاءِ اللَّهِ. وَكَانَ لَهُ ابْنٌ صَغِيرٌ اسْمُهُ إِسْمَاعِيلُ عَلَيْهِ السَّلَامُ، وَأُمُّ إِسْمَاعِيلَ اسْمُهَا هَاجَرُ.",
+   "en": "Ibrahim, peace be upon him, was one of Allah's prophets. He had a little son named Isma'il, peace be upon him, and Isma'il's mother was named Hajar.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham; Ibn Kathir, Qisas"
+   ],
+   "note": "The hadith never names her; it calls her أم إسماعيل throughout. The name هاجر is from the seerah corpus. After this line the episode uses أم إسماعيل, as the hadith does."
+  },
+  {
+   "ar": "وَأُمُّ إِسْمَاعِيلَ هِيَ أَوَّلُ مَنْ لَبِسَ الْمِنْطَقَ مِنَ النِّسَاءِ. لَبِسَتْ مِنْطَقًا لِتُخْفِيَ أَثَرَهَا عَنْ سَارَةَ، زَوْجَةِ إِبْرَاهِيمَ.",
+   "en": "Isma'il's mother was the first woman to wear the mintaq, a cloth belt tied at the waist. She wore one to hide her tracks from Sarah, Ibrahim's wife.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "أَوَّلَ مَا اتَّخَذَ النِّسَاءُ الْمِنْطَقَ مِنْ قِبَلِ أُمِّ إِسْمَاعِيلَ اتَّخَذَتْ مِنْطَقًا لَتُعَفِّيَ أَثَرَهَا عَلَى سَارَةَ",
+   "cite": "Bukhari 3364",
+   "note": "Ibn Abbas opens the hadith with this. 'Sarah, Ibrahim's wife' is added to identify her. لتعفي أثرها, literally 'to efface her trace', is kept open in the Arabic. Commentators give two readings: she let the belt's long end trail to wipe out her footprints, or she wore a working woman's belt to keep a low profile with Sarah. The hadith gives no further background; that is from other reports. Ibn Abbas's words, not attributed to the Prophet ﷺ.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "ثُمَّ جَاءَ إِبْرَاهِيمُ بِأُمِّ إِسْمَاعِيلَ وَبِابْنِهَا إِسْمَاعِيلَ، وَهِيَ تُرْضِعُهُ. فَسَارُوا حَتَّى وَصَلُوا إِلَى وَادٍ بَيْنَ الْجِبَالِ.",
+   "en": "Then Ibrahim brought Isma'il's mother and her son Isma'il, while she was still nursing him. They travelled until they reached a valley among the mountains.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "ثُمَّ جَاءَ بِهَا إِبْرَاهِيمُ وَبِابْنِهَا إِسْمَاعِيلَ وَهِيَ تُرْضِعُهُ",
+   "cite": "Bukhari 3364",
+   "note": "'A valley among the mountains' is scene-setting by the editor.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَوَضَعَهُمَا عِنْدَ مَكَانِ الْبَيْتِ، عِنْدَ شَجَرَةٍ كَبِيرَةٍ، فَوْقَ مَكَانِ زَمْزَمَ، فِي أَعْلَى الْمَسْجِدِ.",
+   "en": "He set them down at the site of the House, by a great tree, just above where Zamzam is, in the upper part of where the Mosque stands.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "حَتَّى وَضَعَهُمَا عِنْدَ الْبَيْتِ عِنْدَ دَوْحَةٍ فَوْقَ زَمْزَمَ فِي أَعْلَى الْمَسْجِدِ",
+   "cite": "Bukhari 3364",
+   "note": "دوحة = a great tree. The House and Zamzam do not exist yet; Ibn Abbas places the spot by landmarks his listeners knew, so 'site of' / 'where' is added.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَلَيْسَ بِمَكَّةَ يَوْمَئِذٍ أَحَدٌ، وَلَيْسَ بِهَا مَاءٌ.",
+   "en": "In those days there was no one in Makkah, and there was no water there.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "وَلَيْسَ بِمَكَّةَ يَوْمَئِذٍ أَحَدٌ وَلَيْسَ بِهَا مَاءٌ",
+   "cite": "Bukhari 3364",
+   "note": "Answered at the end of episode 2: households of Jurhum in Makkah, and water.",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَوَضَعَهُمَا هُنَاكَ، وَتَرَكَ عِنْدَهُمَا كِيسًا فِيهِ تَمْرٌ، وَقِرْبَةً فِيهَا مَاءٌ.",
+   "en": "He set them down there, and left with them a bag with dates in it, and a waterskin with water in it.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَوَضَعَهُمَا هُنَالِكَ وَوَضَعَ عِنْدَهُمَا جِرَابًا فِيهِ تَمْرٌ وَسِقَاءً فِيهِ مَاءٌ",
+   "cite": "Bukhari 3364",
+   "note": "جراب → كيس; سقاء → قربة.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "ثُمَّ أَدَارَ إِبْرَاهِيمُ ظَهْرَهُ، وَمَشَى.",
+   "en": "Then Ibrahim turned his back and set off.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "ثُمَّ قَفَّى إِبْرَاهِيمُ مُنْطَلِقًا",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَتَبِعَتْهُ أُمُّ إِسْمَاعِيلَ، فَقَالَتْ: «يَا إِبْرَاهِيمُ، أَيْنَ تَذْهَبُ وَتَتْرُكُنَا بِهَذَا الْوَادِي الَّذِي لَيْسَ فِيهِ إِنْسٌ وَلَا شَيْءٌ؟»",
+   "en": "Isma'il's mother followed him and said: \"Ibrahim, where are you going, leaving us in this valley where there is no human being and nothing at all?\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "فَتَبِعَتْهُ أُمُّ إِسْمَاعِيلَ فَقَالَتْ يَا إِبْرَاهِيمُ أَيْنَ تَذْهَبُ وَتَتْرُكُنَا بِهَذَا الْوَادِي الَّذِي لَيْسَ فِيهِ إِنْسٌ وَلَا شَيْءٌ",
+   "cite": "Bukhari 3364",
+   "note": "إنس = human beings, people.",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالَتْ لَهُ ذَلِكَ مَرَّةً بَعْدَ مَرَّةٍ، وَهُوَ لَا يَلْتَفِتُ إِلَيْهَا.",
+   "en": "She said it to him again and again, and he would not turn to look at her.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَقَالَتْ لَهُ ذَلِكَ مِرَارًا وَجَعَلَ لَا يَلْتَفِتُ إِلَيْهَا",
+   "cite": "Bukhari 3364",
+   "note": "مرارا → مرة بعد مرة.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالَتْ لَهُ: «أَاللَّهُ الَّذِي أَمَرَكَ بِهَذَا؟»",
+   "en": "So she said to him: \"Is it Allah who commanded you to do this?\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "فَقَالَتْ لَهُ أَاللَّهُ الَّذِي أَمَرَكَ بِهَذَا",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «نَعَمْ.»",
+   "en": "He said: \"Yes.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ نَعَمْ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَتْ: «إِذَنْ لَا يُضَيِّعُنَا.»",
+   "en": "She said: \"Then He will not let us be lost.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "Verbatim. Echoed by the angel in episode 2: إن الله لا يضيع أهله.",
+   "wording": "exact",
+   "source": "قَالَتْ إِذَنْ لَا يُضَيِّعُنَا",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "ثُمَّ رَجَعَتْ.",
+   "en": "Then she went back.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "ثُمَّ رَجَعَتْ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "وَمَشَى إِبْرَاهِيمُ حَتَّى وَصَلَ إِلَى الثَّنِيَّةِ، وَهِيَ طَرِيقٌ فِي الْجَبَلِ، حَيْثُ لَا يَرَوْنَهُ. فَاسْتَقْبَلَ بِوَجْهِهِ مَكَانَ الْبَيْتِ، وَرَفَعَ يَدَيْهِ، وَدَعَا بِهَذِهِ الْكَلِمَاتِ:",
+   "en": "Ibrahim walked on until he reached the pass, a path through the mountain, where they could not see him. He turned his face toward the site of the House, raised his hands, and prayed with these words:",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَانْطَلَقَ إِبْرَاهِيمُ حَتَّى إِذَا كَانَ عِنْدَ الثَّنِيَّةِ حَيْثُ لَا يَرَوْنَهُ اسْتَقْبَلَ بِوَجْهِهِ الْبَيْتَ ثُمَّ دَعَا بِهَؤُلَاءِ الْكَلِمَاتِ وَرَفَعَ يَدَيْهِ فَقَالَ",
+   "cite": "Bukhari 3364",
+   "note": "'A path through the mountain' glosses الثنية.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "quran": "14:37",
+   "en": "\"Our Lord, I have settled some of my offspring in a valley without crops, by Your Sacred House — our Lord, that they may establish prayer. So make the hearts of people incline toward them, and provide them with fruits, that they may be grateful.\"",
+   "voice": "quran",
+   "grade": [
+    "quran",
+    "sahih"
+   ],
+   "refs": [
+    "Qur'an 14:37",
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "The hadith says he recited from إني أسكنت to يشكرون — the whole of 14:37.",
+   "ar": "﴿رَّبَّنَاۤ إِنِّىۤ أَسۡكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيۡرِ ذِى زَرۡعٍ عِندَ بَيۡتِكَ ٱلۡمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجۡعَلۡ أَفۡـِٔدَةࣰ مِّنَ ٱلنَّاسِ تَهۡوِىۤ إِلَيۡهِمۡ وَٱرۡزُقۡهُم مِّنَ ٱلثَّمَرَ ٰ⁠تِ لَعَلَّهُمۡ يَشۡكُرُونَ﴾",
+   "audio": {
+    "file": "audio/quran/ep01-p15.mp3",
+    "quran": "14:37",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  },
+  {
+   "ar": "وَبَقِيَتِ الْأُمُّ وَابْنُهَا وَحْدَهُمَا فِي الْوَادِي.",
+   "en": "And the mother and her son stayed alone in the valley.",
+   "voice": "narration",
+   "grade": [
+    "narration"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "Editor's connective line; the hadith goes straight on to her nursing him and drinking."
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep01.mp3",
+  "duration_s": 155.17,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.5,
+    "end": 14.9,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 15.7,
+    "end": 26.74,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 27.54,
+    "end": 39.54,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 40.34,
+    "end": 48.34,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 49.14,
+    "end": 54.82,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 55.62,
+    "end": 63.54,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 64.34,
+    "end": 67.3,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 68.1,
+    "end": 79.86,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 80.66,
+    "end": 85.46,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 86.26,
+    "end": 89.94,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 90.74,
+    "end": 92.26,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 93.06,
+    "end": 95.54,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 96.34,
+    "end": 97.38,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 98.18,
+    "end": 113.3,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 114.7,
+    "end": 149.65,
+    "speaker": "AbdulAziz Salar Rasoul"
+   },
+   {
+    "paragraph": 16,
+    "start": 151.05,
+    "end": 154.727,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

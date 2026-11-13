@@ -1,0 +1,306 @@
+{
+ "number": 4,
+ "title_ar": "الدَّعْوَةُ",
+ "title_en": "The Prayer",
+ "summary_en": "Ibrahim prays over the finished House — for safety, against idols, and for a messenger from among his descendants.",
+ "paragraphs": [
+  {
+   "ar": "وَلَمَّا انْتَهَى إِبْرَاهِيمُ وَإِسْمَاعِيلُ عَلَيْهِمَا السَّلَامُ مِنْ بِنَاءِ الْبَيْتِ، دَعَا إِبْرَاهِيمُ رَبَّهُ.",
+   "en": "When Ibrahim and Isma'il, peace be upon them, had finished building the House, Ibrahim prayed to his Lord.",
+   "voice": "narration",
+   "grade": [
+    "quran",
+    "narration"
+   ],
+   "refs": [
+    "Qur'an 2:127–129"
+   ]
+  },
+  {
+   "ar": "دَعَا أَنْ يَكُونَ هَذَا الْبَلَدُ آمِنًا، وَأَنْ يُبْعِدَهُ اللَّهُ وَأَوْلَادَهُ عَنْ عِبَادَةِ الْأَصْنَامِ.",
+   "en": "He prayed that this land would be safe, and that Allah would keep him and his children far from worshipping idols.",
+   "voice": "narration",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 14:35"
+   ],
+   "note": "Sets up episode 5, where the idols come anyway."
+  },
+  {
+   "quran": "14:35",
+   "en": "\"My Lord, make this land secure, and keep me and my sons away from worshipping idols.\"",
+   "voice": "quran",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 14:35"
+   ],
+   "ar": "﴿وَإِذۡ قَالَ إِبۡرَ ٰ⁠هِيمُ رَبِّ ٱجۡعَلۡ هَـٰذَا ٱلۡبَلَدَ ءَامِنࣰا وَٱجۡنُبۡنِى وَبَنِىَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ﴾",
+   "audio": {
+    "file": "audio/quran/ep04-p03.mp3",
+    "quran": "14:35",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  },
+  {
+   "ar": "وَدَعَا أَنْ يُعَلِّمَهُمُ اللَّهُ كَيْفَ يَعْبُدُونَهُ.",
+   "en": "He prayed that Allah would teach them how to worship Him.",
+   "voice": "narration",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 2:128"
+   ]
+  },
+  {
+   "quran": "2:128",
+   "en": "\"Our Lord, make us submit to You, and from our descendants a nation submitting to You. Show us our rites of worship, and turn to us in mercy. You are the Ever-Relenting, the Most Merciful.\"",
+   "voice": "quran",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 2:128"
+   ],
+   "ar": "﴿رَبَّنَا وَٱجۡعَلۡنَا مُسۡلِمَيۡنِ لَكَ وَمِن ذُرِّيَّتِنَاۤ أُمَّةࣰ مُّسۡلِمَةࣰ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَاۤۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ﴾",
+   "audio": {
+    "file": "audio/quran/ep04-p05.mp3",
+    "quran": "2:128",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  },
+  {
+   "ar": "وَدَعَا دُعَاءً آخَرَ، لِأَوْلَادِ أَوْلَادِهِ الَّذِينَ سَيَأْتُونَ بَعْدَ زَمَنٍ طَوِيلٍ. دَعَا أَنْ يُرْسِلَ اللَّهُ فِيهِمْ رَسُولًا مِنْهُمْ.",
+   "en": "And he made another prayer, for his descendants who would come long after. He prayed that Allah would send among them a messenger from among themselves.",
+   "voice": "narration",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 2:129"
+   ]
+  },
+  {
+   "quran": "2:129",
+   "en": "\"Our Lord, raise up among them a messenger from among themselves, who will recite Your verses to them, teach them the Book and wisdom, and purify them. You are the Almighty, the All-Wise.\"",
+   "voice": "quran",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 2:129"
+   ],
+   "note": "The hinge of the whole series. Answered in paragraph 13, and again in volume 4.",
+   "ar": "﴿رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولࣰا مِّنۡهُمۡ يَتۡلُوا۟ عَلَيۡهِمۡ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلۡكِتَـٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ﴾",
+   "audio": {
+    "file": "audio/quran/ep04-p07.mp3",
+    "quran": "2:129",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  },
+  {
+   "ar": "وَأَمَرَ اللَّهُ إِبْرَاهِيمَ أَنْ يُنَادِيَ النَّاسَ إِلَى الْحَجِّ.",
+   "en": "And Allah commanded Ibrahim to call the people to the pilgrimage.",
+   "voice": "narration",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 22:27"
+   ]
+  },
+  {
+   "quran": "22:27",
+   "en": "\"And proclaim the pilgrimage among the people: they will come to you on foot, and on every lean camel, coming from every distant pass.\"",
+   "voice": "quran",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 22:27"
+   ],
+   "ar": "﴿وَأَذِّن فِى ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالࣰا وَعَلَىٰ كُلِّ ضَامِرࣲ يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقࣲ﴾",
+   "audio": {
+    "file": "audio/quran/ep04-p09.mp3",
+    "quran": "22:27",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  },
+  {
+   "ar": "فَصَارَ النَّاسُ يَأْتُونَ إِلَى الْبَيْتِ مِنْ كُلِّ مَكَانٍ.",
+   "en": "And people began coming to the House from every place.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham — remnants of the religion of Ibrahim"
+   ],
+   "note": "Ibn Hisham lists the hajj, the tawaf and the standing at Arafa among what survived from Ibrahim's time."
+  },
+  {
+   "ar": "وَمَرَّتِ السِّنُونَ، وَمَرَّتْ أَجْيَالٌ بَعْدَ أَجْيَالٍ. وَلَمْ يَأْتِ ذَلِكَ الرَّسُولُ.",
+   "en": "The years passed, generation after generation, and that messenger did not come.",
+   "voice": "narration",
+   "grade": [
+    "narration"
+   ],
+   "refs": []
+  },
+  {
+   "ar": "لَكِنَّ اللَّهَ لَمْ يَنْسَ دُعَاءَ إِبْرَاهِيمَ.",
+   "en": "But Allah had not forgotten Ibrahim's prayer.",
+   "voice": "narration",
+   "grade": [
+    "narration"
+   ],
+   "refs": [],
+   "note": "Editor's line. It draws on the hadith in the next card, where the Prophet ﷺ names the prayer of Ibrahim as the beginning of his matter."
+  },
+  {
+   "ar": "وَبَعْدَ زَمَنٍ طَوِيلٍ جِدًّا، قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنِّي عَبْدُ اللَّهِ لَخَاتَمُ النَّبِيِّينَ، وَإِنَّ آدَمَ عَلَيْهِ السَّلَامُ لَمُنْجَدِلٌ فِي طِينَتِهِ، وَسَأُنَبِّئُكُمْ بِأَوَّلِ ذَلِكَ: دَعْوَةُ أَبِي إِبْرَاهِيمَ، وَبِشَارَةُ عِيسَى بِي، وَرُؤْيَا أُمِّي الَّتِي رَأَتْ.»",
+   "en": "Long, long afterwards, the Messenger of Allah ﷺ said: \"I was Allah's servant and the Seal of the Prophets while Adam, peace be upon him, still lay in his clay. And I will tell you the beginning of it: the prayer of my father Ibrahim, the good news 'Isa gave of me, and the vision my mother saw.\"",
+   "voice": "prophet",
+   "grade": [
+    "hadith"
+   ],
+   "refs": [
+    "Musnad Ahmad 17150 (al-Risala numbering) — al-Irbad ibn Sariya"
+   ],
+   "quote": {
+    "text": "إِنِّي عَبْدُ اللَّهِ لَخَاتَمُ النَّبِيِّينَ وَإِنَّ آدَمَ عَلَيْهِ السَّلَام لَمُنْجَدِلٌ فِي طِينَتِهِ وَسَأُنَبِّئُكُمْ بِأَوَّلِ ذَلِكَ دَعْوَةُ أَبِي إِبْرَاهِيمَ وَبِشَارَةُ عِيسَى بِي وَرُؤْيَا أُمِّي الَّتِي رَأَتْ",
+    "tier": 1,
+    "sources": [
+     "ahmad"
+    ]
+   },
+   "note": "Exact words, a continuous excerpt (the hadith goes on: وكذلك أمهات النبيين ترين). Graded hasan in the takhrij consulted; authenticated by Ibn Hibban (6404) and al-Hakim (2/600). Some sources read إني عند الله for إني عبد الله. Gloss: خَاتَمُ النَّبِيِّينَ = the last of the prophets; لَمُنْجَدِلٌ فِي طِينَتِهِ = still lying as clay, not yet created; دَعْوَةُ = prayer; بِشَارَةُ = good news; رُؤْيَا = vision.",
+   "cite": "Musnad Ahmad 17150",
+   "lead": "وَبَعْدَ زَمَنٍ طَوِيلٍ جِدًّا، ",
+   "_verified": {
+    "tier": 1,
+    "source": "ahmad",
+    "row": 16524,
+    "tashkeel_changes": []
+   },
+   "citation": "Musnad Ahmad 17150"
+  },
+  {
+   "ar": "كَانَ ذَلِكَ الرَّسُولُ هُوَ الْجَوَابَ. وَلَكِنْ قَبْلَ أَنْ يَأْتِيَ، كَانَ الْوَادِي سَيَنْسَى.",
+   "en": "That messenger was the answer. But before he came, the valley would forget.",
+   "voice": "narration",
+   "grade": [
+    "narration"
+   ],
+   "refs": [],
+   "note": "Forward-pointing; the forgetting is episode 5."
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep04.mp3",
+  "duration_s": 171.91,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.4,
+    "end": 7.208,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 7.808,
+    "end": 15.019,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 15.869,
+    "end": 30.219,
+    "speaker": "AbdulAziz Salar Rasoul"
+   },
+   {
+    "paragraph": 4,
+    "start": 31.069,
+    "end": 34.655,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 35.505,
+    "end": 64.655,
+    "speaker": "AbdulAziz Salar Rasoul"
+   },
+   {
+    "paragraph": 6,
+    "start": 65.505,
+    "end": 76.018,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 76.868,
+    "end": 102.868,
+    "speaker": "AbdulAziz Salar Rasoul"
+   },
+   {
+    "paragraph": 8,
+    "start": 103.718,
+    "end": 107.478,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 108.328,
+    "end": 125.478,
+    "speaker": "AbdulAziz Salar Rasoul"
+   },
+   {
+    "paragraph": 10,
+    "start": 126.328,
+    "end": 129.688,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 130.288,
+    "end": 136.819,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 137.419,
+    "end": 140.619,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 141.219,
+    "end": 164.44,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 165.04,
+    "end": 171.468,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

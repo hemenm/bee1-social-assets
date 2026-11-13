@@ -1,0 +1,366 @@
+{
+ "number": 9,
+ "title_ar": "أَبْرَهَةُ",
+ "title_en": "Abraha",
+ "summary_en": "Abraha builds a church in San'a, swears to destroy the Kaaba, and marches on Makkah with an elephant.",
+ "paragraphs": [
+  {
+   "ar": "وَفِي تِلْكَ الْأَيَّامِ، كَانَ يَحْكُمُ الْيَمَنَ رَجُلٌ مِنَ الْحَبَشَةِ اسْمُهُ أَبْرَهَةُ.",
+   "en": "In those days, a man from Abyssinia named Abraha ruled Yemen.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "بَنَى أَبْرَهَةُ فِي صَنْعَاءَ كَنِيسَةً عَظِيمَةً، لَمْ يَرَ النَّاسُ مِثْلَهَا.",
+   "en": "Abraha built a magnificent church in San'a, the like of which people had never seen.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "القليس."
+  },
+  {
+   "ar": "وَكَتَبَ إِلَى مَلِكِ الْحَبَشَةِ: «سَأَجْعَلُ الْعَرَبَ يَحُجُّونَ إِلَيْهَا، بَدَلًا مِنَ الْكَعْبَةِ.»",
+   "en": "And he wrote to the king of Abyssinia: \"I will make the Arabs make their pilgrimage to it, instead of the Kaaba.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "From his letter to the Negus: ولست بمنته حتى أصرف إليها حج العرب. The old card said قال; it was a letter, and the Arabs heard of it through the letter."
+  },
+  {
+   "ar": "فَغَضِبَ رَجُلٌ مِنَ الْعَرَبِ، فَذَهَبَ إِلَى الْكَنِيسَةِ، وَأَهَانَهَا، ثُمَّ هَرَبَ.",
+   "en": "A man of the Arabs was angered. He went to the church, defiled it, then fled.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "The source is specific about how he defiled it. Kept general for the app."
+  },
+  {
+   "ar": "فَغَضِبَ أَبْرَهَةُ غَضَبًا شَدِيدًا، وَحَلَفَ: «سَأَذْهَبُ إِلَى الْكَعْبَةِ وَأَهْدِمُهَا!»",
+   "en": "Abraha was furious, and swore: \"I will go to the Kaaba and tear it down!\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَجَهَّزَ جَيْشَهُ، وَخَرَجَ مَعَهُ فِيلٌ.",
+   "en": "He prepared his army, and an elephant went out with it.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَسَمِعَ الْعَرَبُ بِذَلِكَ، فَرَأَوْهُ أَمْرًا عَظِيمًا. وَخَرَجَ بَعْضُهُمْ لِيُقَاتِلُوهُ، فَهَزَمَهُمْ أَبْرَهَةُ.",
+   "en": "The Arabs heard of it and found it monstrous. Some of them went out to fight him, but Abraha defeated them.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: فأعظموه وفظعوا به، ورأوا جهاده حقا عليهم. The old Arabic said خافوا (were afraid). Dhu Nafr and Nufayl ibn Habib were defeated and captured; Nufayl returns in episode 10."
+  },
+  {
+   "ar": "وَمَشَى الْجَيْشُ حَتَّى نَزَلَ قَرِيبًا مِنْ مَكَّةَ. وَأَخَذَ جُنُودُهُ أَمْوَالَ النَّاسِ، وَمِنْهَا مِئَتَا بَعِيرٍ لِعَبْدِ الْمُطَّلِبِ.",
+   "en": "The army marched until it camped near Makkah. His soldiers seized people's property — among it two hundred camels belonging to Abd al-Muttalib.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَكَانَ عَبْدُ الْمُطَّلِبِ يَوْمَئِذٍ سَيِّدَ قُرَيْشٍ.",
+   "en": "At that time, Abd al-Muttalib was the chief of Quraysh.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَأَرْسَلَ أَبْرَهَةُ إِلَى مَكَّةَ: «لَمْ آتِ لِأُحَارِبَكُمْ. جِئْتُ لِأَهْدِمَ هَذَا الْبَيْتَ فَقَطْ.»",
+   "en": "Abraha sent word to Makkah: \"I have not come to fight you. I have come only to tear down this House.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَقَالَ عَبْدُ الْمُطَّلِبِ: «وَاللَّهِ مَا نُرِيدُ حَرْبَهُ، وَلَا نَقْدِرُ عَلَيْهَا. هَذَا بَيْتُ اللَّهِ الْحَرَامُ، وَبَيْتُ خَلِيلِهِ إِبْرَاهِيمَ» — أَوْ كَمَا قَالَ — «فَإِنْ يَمْنَعْهُ مِنْهُ، فَهُوَ بَيْتُهُ.»",
+   "en": "Abd al-Muttalib said: \"By Allah, we do not want to fight him, nor are we able to. This is the Sacred House of Allah, the House of His friend Ibrahim\" (or words to that effect) \"and if He protects it from him, it is His House.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "The source's hedge أو كما قال ('or words to that effect') is now in the text, where Ibn Ishaq puts it."
+  },
+  {
+   "ar": "ثُمَّ ذَهَبَ عَبْدُ الْمُطَّلِبِ إِلَى أَبْرَهَةَ. وَكَانَ رَجُلًا جَمِيلًا، عَظِيمَ الْهَيْبَةِ. فَلَمَّا رَآهُ أَبْرَهَةُ أَكْرَمَهُ، وَنَزَلَ عَنْ كُرْسِيِّهِ، وَجَلَسَ مَعَهُ.",
+   "en": "Then Abd al-Muttalib went to Abraha. He was a handsome man of great presence. When Abraha saw him, he honoured him, came down from his throne, and sat with him.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "قَالَ أَبْرَهَةُ: «مَا حَاجَتُكَ؟» قَالَ: «أَنْ تَرُدَّ عَلَيَّ مِئَتَيْ بَعِيرٍ أَخَذْتَهَا مِنِّي.»",
+   "en": "Abraha said: \"What do you want?\" He said: \"That you return to me two hundred camels you took from me.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَقَالَ أَبْرَهَةُ: «أَعْجَبْتَنِي حِينَ رَأَيْتُكَ، ثُمَّ زَهِدْتُ فِيكَ حِينَ كَلَّمْتَنِي! تُكَلِّمُنِي فِي مِئَتَيْ بَعِيرٍ، وَتَتْرُكُ بَيْتًا هُوَ دِينُكَ وَدِينُ آبَائِكَ، جِئْتُ لِأَهْدِمَهُ؟»",
+   "en": "Abraha said: \"You impressed me when I saw you — then you lost my respect when you spoke! You speak to me about two hundred camels, and leave aside a House that is your religion and your fathers' religion, which I have come to destroy?\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "فَقَالَ عَبْدُ الْمُطَّلِبِ: «إِنِّي أَنَا رَبُّ الْإِبِلِ، وَإِنَّ لِلْبَيْتِ رَبًّا سَيَمْنَعُهُ.»",
+   "en": "Abd al-Muttalib said: \"I am the lord of the camels — and the House has a Lord who will protect it.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq",
+    "Ibn Kathir, al-Bidaya",
+    "al-Tabari, Tarikh"
+   ],
+   "check": "إني أنا رب الإبل وإن للبيت ربا سيمنعه",
+   "note": "Verbatim. Ibn Hisham and Ibn Kathir agree word for word; al-Tabari reads إن أنا for إني أنا, most likely a copyist's variant. The wordplay on رب survives in English only as lord/Lord."
+  },
+  {
+   "ar": "قَالَ أَبْرَهَةُ: «لَنْ يَمْنَعَهُ مِنِّي.» قَالَ: «أَنْتَ وَذَاكَ.»",
+   "en": "Abraha said: \"He will not protect it from me.\" He replied: \"That is between you and Him.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: ما كان ليمتنع مني."
+  },
+  {
+   "ar": "فَرَدَّ أَبْرَهَةُ الْإِبِلَ عَلَى عَبْدِ الْمُطَّلِبِ.",
+   "en": "So Abraha returned the camels to Abd al-Muttalib.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَرَجَعَ عَبْدُ الْمُطَّلِبِ إِلَى قُرَيْشٍ، وَأَمَرَهُمْ أَنْ يَخْرُجُوا مِنْ مَكَّةَ إِلَى الْجِبَالِ.",
+   "en": "Abd al-Muttalib returned to Quraysh and told them to leave Makkah for the mountains.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "ثُمَّ أَمْسَكَ بِحَلْقَةِ بَابِ الْكَعْبَةِ، وَقَالَ: «اللَّهُمَّ، إِنَّ الْعَبْدَ يَحْمِي بَيْتَهُ، فَاحْمِ بَيْتَكَ وَأَهْلَهُ.»",
+   "en": "Then he took hold of the ring of the Kaaba's door and said: \"O Allah, the servant protects his home, so protect Your House and its people.\"",
+   "voice": "reported",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Rendered to meaning from the first line of his verse: لاهم إن العبد يمنع رحله فامنع حلالك. العبد (the servant) is kept: it sets the servant against his Lord, as in 'the House has a Lord'. حلال is explained by the commentators as the dwellings, or the people, settled in the sanctuary; 'Your House and its people' keeps both. Ibn Hisham says of the poem: هذا ما صح له منها."
+  },
+  {
+   "ar": "ثُمَّ تَرَكَ الْبَابَ، وَصَعِدَ إِلَى الْجَبَلِ مَعَ قَوْمِهِ، يَنْتَظِرُونَ مَا سَيَفْعَلُ أَبْرَهَةُ.",
+   "en": "Then he let go of the door, and went up into the mountains with his people, waiting to see what Abraha would do.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep09.mp3",
+  "duration_s": 158.59,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.4,
+    "end": 6.461,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 7.061,
+    "end": 13.251,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 13.851,
+    "end": 21.097,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 21.697,
+    "end": 28.195,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 28.795,
+    "end": 35.639,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 36.239,
+    "end": 39.623,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 40.223,
+    "end": 49.122,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 49.722,
+    "end": 59.293,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 59.893,
+    "end": 63.093,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 63.693,
+    "end": 71.159,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 71.759,
+    "end": 85.627,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 86.227,
+    "end": 97.261,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 97.861,
+    "end": 104.631,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 105.231,
+    "end": 119.172,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 119.772,
+    "end": 125.882,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 16,
+    "start": 126.482,
+    "end": 131.163,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 17,
+    "start": 131.763,
+    "end": 135.112,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 18,
+    "start": 135.712,
+    "end": 141.908,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 19,
+    "start": 142.508,
+    "end": 151.031,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 20,
+    "start": 151.631,
+    "end": 158.147,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

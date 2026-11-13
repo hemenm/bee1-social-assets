@@ -1,0 +1,297 @@
+{
+ "number": 6,
+ "title_ar": "قُصَيٌّ",
+ "title_en": "Qusayy",
+ "summary_en": "Quraysh are gathered into Makkah and take custody of the House. Dar al-Nadwa is built.",
+ "paragraphs": [
+  {
+   "ar": "وَمَرَّ زَمَنٌ طَوِيلٌ. وَكَانَتْ قَبِيلَةُ خُزَاعَةَ تَحْكُمُ مَكَّةَ وَالْبَيْتَ.",
+   "en": "A long time passed. The tribe of Khuza'a ruled Makkah and the House.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «عَمْرُو بْنُ لُحَيِّ بْنِ قَمَعَةَ بْنِ خِنْدِفَ أَبُو خُزَاعَةَ.»",
+   "en": "And the Messenger of Allah ﷺ said: \"Amr ibn Luhayy ibn Qama'a ibn Khindif is the father of Khuza'a.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3520 — Abu Hurayra"
+   ],
+   "cite": "Bukhari 3520",
+   "quote": {
+    "text": "عَمْرُو بْنُ لُحَيِّ بْنِ قَمَعَةَ بْنِ خِنْدِفَ أَبُو خُزَاعَةَ",
+    "tier": 1,
+    "sources": [
+     "bukhari"
+    ]
+   },
+   "note": "Replaces the old line 'Amr ibn Luhayy had been one of Khuza'a', which reworded the Prophet's ﷺ words and changed 'father of' to 'one of'. Links back to episode 5.",
+   "_verified": {
+    "tier": 1,
+    "source": "bukhari",
+    "row": 3258,
+    "tashkeel_changes": []
+   },
+   "citation": "Bukhari 3520"
+  },
+  {
+   "ar": "وَكَانَتْ قُرَيْشٌ، أَوْلَادُ إِسْمَاعِيلَ، مُتَفَرِّقَةً فِي قَبَائِلِ كِنَانَةَ.",
+   "en": "Quraysh, descendants of Isma'il, were scattered among the tribes of Kinana.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: وقريش إذ ذاك حلول وصرم، وبيوتات متفرقون في قومهم من بني كنانة. The old card said 'around Makkah'."
+  },
+  {
+   "ar": "ثُمَّ جَاءَ رَجُلٌ مِنْ قُرَيْشٍ اسْمُهُ قُصَيُّ بْنُ كِلَابٍ.",
+   "en": "Then there came a man of Quraysh named Qusayy ibn Kilab.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "حَارَبَ قُصَيٌّ خُزَاعَةَ، وَقُتِلَ نَاسٌ كَثِيرُونَ مِنَ الْفَرِيقَيْنِ. ثُمَّ حَكَمَ رَجُلٌ مِنَ الْعَرَبِ بَيْنَهُمْ: قُصَيٌّ أَحَقُّ بِالْبَيْتِ وَبِمَكَّةَ. فَخَرَجَتْ خُزَاعَةُ، وَصَارَ قُصَيٌّ صَاحِبَ الْبَيْتِ.",
+   "en": "Qusayy fought Khuza'a, and many were killed on both sides. Then a man of the Arabs judged between them: Qusayy has more right to the House and to Makkah. So Khuza'a left, and Qusayy became master of the House.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: the battle ended with heavy losses on both sides (حتى كثرت القتلى في الفريقين جميعا), then they agreed to arbitration by Ya'mur ibn Awf, who ruled that قصيا أولى بالكعبة وأمر مكة من خزاعة. The old card turned this into a military victory. Ibn Ishaq adds that the account was told before Umar as caliph."
+  },
+  {
+   "ar": "وَجَمَعَ قَوْمَهُ مِنْ كُلِّ مَكَانٍ إِلَى مَكَّةَ، وَأَعْطَى كُلَّ قَوْمٍ مِنْهُمْ مَكَانًا يَسْكُنُونَ فِيهِ.",
+   "en": "He gathered his people from everywhere into Makkah, and gave each clan a place to live.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَيَقُولُ النَّاسُ: كَانَ فِي بُيُوتِ قُرَيْشٍ فِي الْحَرَمِ شَجَرٌ، وَكَانُوا يَخَافُونَ أَنْ يَقْطَعُوهُ. فَقَطَعَهُ قُصَيٌّ بِيَدِهِ.",
+   "en": "People say there were trees in Quraysh's homes within the Sanctuary, and they were afraid to cut them. So Qusayy cut them with his own hand.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: ويزعم الناس أن قريشا هابوا قطع شجر الحرم في منازلهم فقطعها قصي بيده وأعوانه. The hedge is now in the text, and the trees are the ones in their homes."
+  },
+  {
+   "ar": "فَسَمَّتْهُ قُرَيْشٌ «مُجَمِّعًا»، لِأَنَّهُ جَمَعَ أَمْرَهَا.",
+   "en": "So Quraysh called him \"Mujammi'\", the Gatherer, because he gathered their affairs together.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: فسمته قريش مجمعا لما جمع من أمرها."
+  },
+  {
+   "ar": "وَكَانَتْ عِنْدَ قُصَيٍّ كُلُّ أُمُورِ مَكَّةَ. كَانَ مَعَهُ مِفْتَاحُ الْكَعْبَةِ.",
+   "en": "All of Makkah's affairs were in Qusayy's hands. He held the key to the Kaaba.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "الحجابة."
+  },
+  {
+   "ar": "وَكَانَ يَسْقِي الْحُجَّاجَ الْمَاءَ، وَيُطْعِمُهُمُ الطَّعَامَ.",
+   "en": "He gave the pilgrims water to drink, and gave them food to eat.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "السقاية and الرفادة."
+  },
+  {
+   "ar": "وَكَانَ مَعَهُ لِوَاءُ الْحَرْبِ.",
+   "en": "He held the banner of war.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "اللواء."
+  },
+  {
+   "ar": "وَاتَّخَذَ لِنَفْسِهِ دَارًا، بَابُهَا نَحْوَ الْكَعْبَةِ، هِيَ «دَارُ النَّدْوَةِ».",
+   "en": "He took for himself a house whose door faced the Kaaba: Dar al-Nadwa, the House of Assembly.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: واتخذ لنفسه دار الندوة وجعل بابها إلى مسجد الكعبة. The old card said he named it; the source does not say who named it."
+  },
+  {
+   "ar": "فِيهَا كَانَتْ قُرَيْشٌ تَجْتَمِعُ وَتَتَشَاوَرُ فِي أُمُورِهَا. فِيهَا يَتَزَوَّجُونَ، وَفِيهَا يَعْقِدُونَ لِوَاءَ الْحَرْبِ.",
+   "en": "There Quraysh would meet and take counsel over their affairs. There they married, and there they tied the banner for war.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ]
+  },
+  {
+   "ar": "وَكَانَ أَمْرُ قُصَيٍّ فِي قُرَيْشٍ، فِي حَيَاتِهِ وَبَعْدَ مَوْتِهِ، كَالدِّينِ الَّذِي يَتْبَعُونَهُ.",
+   "en": "Qusayy's word among Quraysh, in his life and after his death, was like a religion they followed.",
+   "voice": "narration",
+   "grade": [
+    "sira"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — Ibn Ishaq"
+   ],
+   "note": "Source: كالدين المتبع لا يعمل بغيره."
+  },
+  {
+   "ar": "وَبَقِيَتْ دَارُ النَّدْوَةِ بَعْدَهُ سِنِينَ طَوِيلَةً. وَسَيَجْتَمِعُ فِيهَا رِجَالُ قُرَيْشٍ يَوْمًا، لِأَمْرٍ عَظِيمٍ.",
+   "en": "Dar al-Nadwa stood for many years after him. And one day, the men of Quraysh would gather in it over a grave matter.",
+   "voice": "narration",
+   "grade": [
+    "sira",
+    "narration"
+   ],
+   "refs": [
+    "Ibn Hisham, Sira — the plot in Dar al-Nadwa"
+   ],
+   "note": "Foreshadows volume 10. Ibn Hisham: في دار الندوة، وهي دار قصي بن كلاب التي كانت قريش لا تقضي أمرا إلا فيها."
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep06.mp3",
+  "duration_s": 117.92,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.4,
+    "end": 6.196,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 6.796,
+    "end": 14.808,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 15.408,
+    "end": 21.465,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 22.065,
+    "end": 25.825,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 26.425,
+    "end": 42.96,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 43.56,
+    "end": 51.532,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 52.132,
+    "end": 62.196,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 62.796,
+    "end": 68.682,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 69.282,
+    "end": 75.818,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 76.418,
+    "end": 80.35,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 80.95,
+    "end": 83.714,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 84.314,
+    "end": 89.728,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 90.328,
+    "end": 99.661,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 100.261,
+    "end": 107.782,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 108.382,
+    "end": 117.482,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

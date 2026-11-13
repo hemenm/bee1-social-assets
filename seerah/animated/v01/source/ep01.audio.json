@@ -1,0 +1,103 @@
+{
+ "file": "audio/episodes/ep01.mp3",
+ "duration_s": 155.17,
+ "narrator": "Arthur (ElevenLabs)",
+ "cards": [
+  {
+   "paragraph": 1,
+   "start": 0.5,
+   "end": 14.9,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 2,
+   "start": 15.7,
+   "end": 26.74,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 3,
+   "start": 27.54,
+   "end": 39.54,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 4,
+   "start": 40.34,
+   "end": 48.34,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 5,
+   "start": 49.14,
+   "end": 54.82,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 6,
+   "start": 55.62,
+   "end": 63.54,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 7,
+   "start": 64.34,
+   "end": 67.3,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 8,
+   "start": 68.1,
+   "end": 79.86,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 9,
+   "start": 80.66,
+   "end": 85.46,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 10,
+   "start": 86.26,
+   "end": 89.94,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 11,
+   "start": 90.74,
+   "end": 92.26,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 12,
+   "start": 93.06,
+   "end": 95.54,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 13,
+   "start": 96.34,
+   "end": 97.38,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 14,
+   "start": 98.18,
+   "end": 113.3,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 15,
+   "start": 114.7,
+   "end": 149.65,
+   "speaker": "AbdulAziz Salar Rasoul"
+  },
+  {
+   "paragraph": 16,
+   "start": 151.05,
+   "end": 154.727,
+   "speaker": "Arthur"
+  }
+ ]
+}

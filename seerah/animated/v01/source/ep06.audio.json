@@ -1,0 +1,97 @@
+{
+ "file": "audio/episodes/ep06.mp3",
+ "duration_s": 117.92,
+ "narrator": "Arthur (ElevenLabs)",
+ "cards": [
+  {
+   "paragraph": 1,
+   "start": 0.4,
+   "end": 6.196,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 2,
+   "start": 6.796,
+   "end": 14.808,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 3,
+   "start": 15.408,
+   "end": 21.465,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 4,
+   "start": 22.065,
+   "end": 25.825,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 5,
+   "start": 26.425,
+   "end": 42.96,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 6,
+   "start": 43.56,
+   "end": 51.532,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 7,
+   "start": 52.132,
+   "end": 62.196,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 8,
+   "start": 62.796,
+   "end": 68.682,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 9,
+   "start": 69.282,
+   "end": 75.818,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 10,
+   "start": 76.418,
+   "end": 80.35,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 11,
+   "start": 80.95,
+   "end": 83.714,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 12,
+   "start": 84.314,
+   "end": 89.728,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 13,
+   "start": 90.328,
+   "end": 99.661,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 14,
+   "start": 100.261,
+   "end": 107.782,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 15,
+   "start": 108.382,
+   "end": 117.482,
+   "speaker": "Arthur"
+  }
+ ]
+}

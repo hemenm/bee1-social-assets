@@ -1,0 +1,711 @@
+{
+ "number": 3,
+ "title_ar": "الْقَوَاعِدُ",
+ "title_en": "The Foundations",
+ "summary_en": "Isma'il grows up; Ibrahim visits three times; father and son raise the House.",
+ "paragraphs": [
+  {
+   "ar": "وَكَبِرَ إِسْمَاعِيلُ عَلَيْهِ السَّلَامُ، وَتَعَلَّمَ الْعَرَبِيَّةَ مِنْ قَبِيلَةِ جُرْهُمَ. وَلَمَّا كَبِرَ، صَارَ عَزِيزًا عِنْدَهُمْ، وَأَعْجَبَهُمْ.",
+   "en": "Isma'il, peace be upon him, grew up, and learned Arabic from the tribe of Jurhum. As he grew, he became dear to them, and they admired him.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "وَشَبَّ الْغُلَامُ وَتَعَلَّمَ الْعَرَبِيَّةَ مِنْهُمْ وَأَنْفَسَهُمْ وَأَعْجَبَهُمْ حِينَ شَبَّ",
+   "cite": "Bukhari 3364",
+   "note": "أنفسهم = he became precious to them. Worth noticing in an Arabic-learning app: Isma'il learned Arabic from Jurhum.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَلَمَّا صَارَ رَجُلًا، زَوَّجُوهُ امْرَأَةً مِنْهُمْ. وَمَاتَتْ أُمُّ إِسْمَاعِيلَ.",
+   "en": "When he became a man, they married him to a woman from among them. And Isma'il's mother died.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَلَمَّا أَدْرَكَ زَوَّجُوهُ امْرَأَةً مِنْهُمْ وَمَاتَتْ أُمُّ إِسْمَاعِيلَ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَجَاءَ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ بَعْدَمَا تَزَوَّجَ إِسْمَاعِيلُ، يَنْظُرُ فِي حَالِ أَهْلِهِ الَّذِينَ تَرَكَهُمْ، فَلَمْ يَجِدْ إِسْمَاعِيلَ. فَسَأَلَ امْرَأَتَهُ عَنْهُ، فَقَالَتْ إِنَّهُ خَرَجَ يَطْلُبُ لَهُمُ الرِّزْقَ.",
+   "en": "After Isma'il had married, Ibrahim, peace be upon him, came to see how the family he had left was doing, but he did not find Isma'il. He asked his wife about him, and she said he had gone out to seek a living for them.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَجَاءَ إِبْرَاهِيمُ بَعْدَمَا تَزَوَّجَ إِسْمَاعِيلُ يُطَالِعُ تَرِكَتَهُ فَلَمْ يَجِدْ إِسْمَاعِيلَ فَسَأَلَ امْرَأَتَهُ عَنْهُ فَقَالَتْ خَرَجَ يَبْتَغِي لَنَا",
+   "cite": "Bukhari 3364",
+   "note": "يطالع تركته = to look in on those he had left. Her words خرج يبتغي لنا ('he went out seeking for us') retold as indirect speech.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "ثُمَّ سَأَلَهَا عَنْ عَيْشِهِمْ وَحَالِهِمْ، فَقَالَتْ: «نَحْنُ بِشَرٍّ، نَحْنُ فِي ضِيقٍ وَشِدَّةٍ.» وَشَكَتْ إِلَيْهِ.",
+   "en": "Then he asked her about their living and how they were. She said: \"We are badly off. We are in straits and hardship.\" And she complained to him.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "ثُمَّ سَأَلَهَا عَنْ عَيْشِهِمْ وَهَيْئَتِهِمْ فَقَالَتْ نَحْنُ بِشَرٍّ نَحْنُ فِي ضِيقٍ وَشِدَّةٍ فَشَكَتْ إِلَيْهِ",
+   "cite": "Bukhari 3364",
+   "note": "هيئتهم → حالهم. Her words restored exactly (the old card had في شر).",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «فَإِذَا جَاءَ زَوْجُكِ، فَاقْرَئِي عَلَيْهِ السَّلَامَ، وَقُولِي لَهُ يُغَيِّرْ عَتَبَةَ بَابِهِ.»",
+   "en": "He said: \"When your husband comes, give him my greeting of peace, and tell him to change the threshold of his door.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ فَإِذَا جَاءَ زَوْجُكِ فَاقْرَئِي عَلَيْهِ السَّلَامَ وَقُولِي لَهُ يُغَيِّرْ عَتَبَةَ بَابِهِ",
+   "cite": "Bukhari 3364",
+   "note": "Restored exactly; the old card turned it into direct command and changed the greeting.",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَلَمَّا جَاءَ إِسْمَاعِيلُ، كَأَنَّهُ أَحَسَّ شَيْئًا، فَقَالَ: «هَلْ جَاءَكُمْ مِنْ أَحَدٍ؟»",
+   "en": "When Isma'il came, it was as if he sensed something. He said: \"Has anyone come to you?\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَلَمَّا جَاءَ إِسْمَاعِيلُ كَأَنَّهُ آنَسَ شَيْئًا فَقَالَ هَلْ جَاءَكُمْ مِنْ أَحَدٍ",
+   "cite": "Bukhari 3364",
+   "note": "New card; this exchange was missing. آنس → أحس.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَتْ: «نَعَمْ.» جَاءَ شَيْخٌ، وَوَصَفَتْهُ لَهُ. وَقَالَتْ إِنَّهُ سَأَلَ عَنْهُ فَأَخْبَرَتْهُ، وَسَأَلَ كَيْفَ يَعِيشُونَ، فَأَخْبَرَتْهُ أَنَّهُمْ فِي تَعَبٍ وَشِدَّةٍ.",
+   "en": "She said: \"Yes.\" An old man had come, and she described him to Isma'il. She said he had asked about Isma'il and she had told him, and he had asked how they were living, and she had told him they were in toil and hardship.",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "قَالَتْ نَعَمْ جَاءَنَا شَيْخٌ كَذَا وَكَذَا فَسَأَلَنَا عَنْكَ فَأَخْبَرْتُهُ وَسَأَلَنِي كَيْفَ عَيْشُنَا فَأَخْبَرْتُهُ أَنَّا فِي جَهْدٍ وَشِدَّةٍ",
+   "cite": "Bukhari 3364",
+   "note": "Hadith: نعم جاءنا شيخ كذا وكذا فسألنا عنك فأخبرته وسألني كيف عيشنا فأخبرته أنا في جهد وشدة. «نعم» is exact; the rest is indirect. كذا وكذا = she described him.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «فَهَلْ أَوْصَاكِ بِشَيْءٍ؟» قَالَتْ: «نَعَمْ، أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ السَّلَامَ، وَيَقُولُ: غَيِّرْ عَتَبَةَ بَابِكَ.»",
+   "en": "He said: \"Did he leave you any message?\" She said: \"Yes. He told me to give you his greeting of peace, and he says: change the threshold of your door.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ فَهَلْ أَوْصَاكِ بِشَيْءٍ قَالَتْ نَعَمْ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ السَّلَامَ وَيَقُولُ غَيِّرْ عَتَبَةَ بَابِكَ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «ذَاكِ أَبِي، وَقَدْ أَمَرَنِي أَنْ أُفَارِقَكِ. الْحَقِي بِأَهْلِكِ.»",
+   "en": "He said: \"That was my father, and he has told me to part from you. Go back to your family.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ ذَاكِ أَبِي وَقَدْ أَمَرَنِي أَنْ أُفَارِقَكِ الْحَقِي بِأَهْلِكِ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَطَلَّقَهَا، وَتَزَوَّجَ امْرَأَةً أُخْرَى مِنْهُمْ.",
+   "en": "So he divorced her, and married another woman from among them.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَطَلَّقَهَا وَتَزَوَّجَ مِنْهُمْ أُخْرَى",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَغَابَ عَنْهُمْ إِبْرَاهِيمُ مَا شَاءَ اللَّهُ، ثُمَّ أَتَاهُمْ بَعْدُ، فَلَمْ يَجِدْ إِسْمَاعِيلَ. فَدَخَلَ عَلَى امْرَأَتِهِ، فَسَأَلَهَا عَنْهُ، فَقَالَتْ إِنَّهُ خَرَجَ يَطْلُبُ لَهُمُ الرِّزْقَ.",
+   "en": "Ibrahim stayed away from them as long as Allah willed. Then he came to them again, and did not find Isma'il. He went in to his wife and asked her about him, and she said he had gone out to seek a living for them.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَلَبِثَ عَنْهُمْ إِبْرَاهِيمُ مَا شَاءَ اللَّهُ ثُمَّ أَتَاهُمْ بَعْدُ فَلَمْ يَجِدْهُ فَدَخَلَ عَلَى امْرَأَتِهِ فَسَأَلَهَا عَنْهُ فَقَالَتْ خَرَجَ يَبْتَغِي لَنَا",
+   "cite": "Bukhari 3364",
+   "note": "لبث عنهم → غاب عنهم. Her words خرج يبتغي لنا retold as indirect speech.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «كَيْفَ أَنْتُمْ؟» وَسَأَلَهَا عَنْ عَيْشِهِمْ وَحَالِهِمْ، فَقَالَتْ: «نَحْنُ بِخَيْرٍ وَسَعَةٍ.» وَأَثْنَتْ عَلَى اللَّهِ.",
+   "en": "He said: \"How are you all?\" And he asked her about their living and how they were. She said: \"We are well, and we have plenty.\" And she praised Allah.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "قَالَ كَيْفَ أَنْتُمْ وَسَأَلَهَا عَنْ عَيْشِهِمْ وَهَيْئَتِهِمْ فَقَالَتْ نَحْنُ بِخَيْرٍ وَسَعَةٍ وَأَثْنَتْ عَلَى اللَّهِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالَ: «مَا طَعَامُكُمْ؟» قَالَتْ: «اللَّحْمُ.» قَالَ: «فَمَا شَرَابُكُمْ؟» قَالَتْ: «الْمَاءُ.»",
+   "en": "He asked: \"What is your food?\" She said: \"Meat.\" He asked: \"And what is your drink?\" She said: \"Water.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "Verbatim.",
+   "wording": "exact",
+   "source": "فَقَالَ مَا طَعَامُكُمْ قَالَتْ اللَّحْمُ قَالَ فَمَا شَرَابُكُمْ قَالَتْ الْمَاءُ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالَ: «اللَّهُمَّ بَارِكْ لَهُمْ فِي اللَّحْمِ وَالْمَاءِ.»",
+   "en": "He said: \"O Allah, bless them in their meat and their water.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "Ibrahim's supplication verbatim.",
+   "wording": "retold",
+   "source": "قَالَ اللَّهُمَّ بَارِكْ لَهُمْ فِي اللَّحْمِ وَالْمَاءِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «وَلَمْ يَكُنْ لَهُمْ يَوْمَئِذٍ حَبٌّ، وَلَوْ كَانَ لَهُمْ دَعَا لَهُمْ فِيهِ.»",
+   "en": "The Messenger of Allah ﷺ said: \"They had no grain in those days. Had they had any, he would have prayed for blessing in it too.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "quote": {
+    "text": "وَلَمْ يَكُنْ لَهُمْ يَوْمَئِذٍ حَبٌّ وَلَوْ كَانَ لَهُمْ دَعَا لَهُمْ فِيهِ",
+    "tier": 1,
+    "sources": [
+     "bukhari"
+    ]
+   },
+   "_verified": {
+    "tier": 1,
+    "source": "bukhari",
+    "row": 3112,
+    "tashkeel_changes": []
+   },
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «فَهُمَا لَا يَخْلُو عَلَيْهِمَا أَحَدٌ بِغَيْرِ مَكَّةَ إِلَّا لَمْ يُوَافِقَاهُ.»",
+   "en": "He ﷺ said: \"No one lives on these two alone, anywhere but Makkah, without them disagreeing with him.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "cite": "Bukhari 3364",
+   "quote": {
+    "text": "فَهُمَا لَا يَخْلُو عَلَيْهِمَا أَحَدٌ بِغَيْرِ مَكَّةَ إِلَّا لَمْ يُوَافِقَاهُ",
+    "tier": 1,
+    "sources": [
+     "bukhari"
+    ]
+   },
+   "note": "Exact words. In the Arabic this follows straight on from the Prophet's ﷺ words in the previous card and is introduced only by قال; the standard English translation (sunnah.com) reads it as the Prophet ﷺ continuing, and it is presented that way here. Gloss: يَخْلُو عَلَيْهِمَا = lives on them alone (يَعِيشُ عَلَيْهِمَا وَحْدَهُمَا); لَمْ يُوَافِقَاهُ = they do not suit him (لَمْ يَكُونَا صَالِحَيْنِ لَهُ).",
+   "_verified": {
+    "tier": 1,
+    "source": "bukhari",
+    "row": 3112,
+    "tashkeel_changes": []
+   },
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «فَإِذَا جَاءَ زَوْجُكِ، فَاقْرَئِي عَلَيْهِ السَّلَامَ، وَمُرِيهِ يُثْبِتُ عَتَبَةَ بَابِهِ.»",
+   "en": "He said: \"When your husband comes, give him my greeting of peace, and tell him to keep the threshold of his door.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ فَإِذَا جَاءَ زَوْجُكِ فَاقْرَئِي عَلَيْهِ السَّلَامَ وَمُرِيهِ يُثْبِتُ عَتَبَةَ بَابِهِ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَلَمَّا جَاءَ إِسْمَاعِيلُ قَالَ: «هَلْ أَتَاكُمْ مِنْ أَحَدٍ؟» قَالَتْ: «نَعَمْ.» جَاءَ شَيْخٌ حَسَنُ الشَّكْلِ، وَمَدَحَتْهُ. وَقَالَتْ إِنَّهُ سَأَلَ عَنْهُ فَأَخْبَرَتْهُ، وَسَأَلَ كَيْفَ يَعِيشُونَ، فَأَخْبَرَتْهُ أَنَّهُمْ بِخَيْرٍ.",
+   "en": "When Isma'il came, he said: \"Has anyone come to you?\" She said: \"Yes.\" A fine-looking old man had come, and she spoke well of him. She said he had asked about Isma'il and she had told him, and he had asked how they were living, and she had told him they were well.",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَلَمَّا جَاءَ إِسْمَاعِيلُ قَالَ هَلْ أَتَاكُمْ مِنْ أَحَدٍ قَالَتْ نَعَمْ أَتَانَا شَيْخٌ حَسَنُ الْهَيْئَةِ وَأَثْنَتْ عَلَيْهِ فَسَأَلَنِي عَنْكَ فَأَخْبَرْتُهُ فَسَأَلَنِي كَيْفَ عَيْشُنَا فَأَخْبَرْتُهُ أَنَّا بِخَيْرٍ",
+   "cite": "Bukhari 3364",
+   "note": "Hadith: نعم أتانا شيخ حسن الهيئة وأثنت عليه فسألني عنك فأخبرته فسألني كيف عيشنا فأخبرته أنا بخير. His question and her «نعم» are exact; the rest is indirect, matching 3.7.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «فَأَوْصَاكِ بِشَيْءٍ؟» قَالَتْ: «نَعَمْ، هُوَ يَقْرَأُ عَلَيْكَ السَّلَامَ، وَيَأْمُرُكَ أَنْ تُثْبِتَ عَتَبَةَ بَابِكَ.»",
+   "en": "He said: \"Did he leave you any message?\" She said: \"Yes. He sends you his greeting of peace, and tells you to keep the threshold of your door.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ فَأَوْصَاكِ بِشَيْءٍ قَالَتْ نَعَمْ هُوَ يَقْرَأُ عَلَيْكَ السَّلَامَ وَيَأْمُرُكَ أَنْ تُثْبِتَ عَتَبَةَ بَابِكَ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «ذَاكِ أَبِي، وَأَنْتِ الْعَتَبَةُ، أَمَرَنِي أَنْ أُمْسِكَكِ.»",
+   "en": "He said: \"That was my father, and you are the threshold. He has told me to keep you.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ ذَاكِ أَبِي وَأَنْتِ الْعَتَبَةُ أَمَرَنِي أَنْ أُمْسِكَكِ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "ثُمَّ غَابَ عَنْهُمْ مَا شَاءَ اللَّهُ، ثُمَّ جَاءَ بَعْدَ ذَلِكَ، وَإِسْمَاعِيلُ يَبْرِي سِهَامًا لَهُ تَحْتَ شَجَرَةٍ كَبِيرَةٍ، قَرِيبًا مِنْ زَمْزَمَ.",
+   "en": "Then he stayed away from them as long as Allah willed. After that he came again, while Isma'il was shaping arrows of his under a great tree near Zamzam.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "ثُمَّ لَبِثَ عَنْهُمْ مَا شَاءَ اللَّهُ ثُمَّ جَاءَ بَعْدَ ذَلِكَ وَإِسْمَاعِيلُ يَبْرِي نَبْلًا لَهُ تَحْتَ دَوْحَةٍ قَرِيبًا مِنْ زَمْزَمَ",
+   "cite": "Bukhari 3364",
+   "note": "نبل → سهام; دوحة → شجرة كبيرة.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَلَمَّا رَآهُ، قَامَ إِلَيْهِ. وَفَعَلَا كَمَا يَفْعَلُ الْأَبُ مَعَ ابْنِهِ، وَالِابْنُ مَعَ أَبِيهِ.",
+   "en": "When Isma'il saw him, he rose to meet him, and they greeted each other as a father greets his son, and a son his father.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَلَمَّا رَآهُ قَامَ إِلَيْهِ فَصَنَعَا كَمَا يَصْنَعُ الْوَالِدُ بِالْوَلَدِ وَالْوَلَدُ بِالْوَالِدِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ إِبْرَاهِيمُ: «يَا إِسْمَاعِيلُ، إِنَّ اللَّهَ أَمَرَنِي بِأَمْرٍ.» قَالَ: «فَاصْنَعْ مَا أَمَرَكَ رَبُّكَ.» قَالَ: «وَتُعِينُنِي؟» قَالَ: «وَأُعِينُكَ.»",
+   "en": "Ibrahim said: \"Isma'il, Allah has commanded me to do something.\" He said: \"Then do what your Lord has commanded you.\" He said: \"And will you help me?\" He said: \"I will help you.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "Verbatim.",
+   "wording": "retold",
+   "source": "ثُمَّ قَالَ يَا إِسْمَاعِيلُ إِنَّ اللَّهَ أَمَرَنِي بِأَمْرٍ قَالَ فَاصْنَعْ مَا أَمَرَكَ رَبُّكَ قَالَ وَتُعِينُنِي قَالَ وَأُعِينُكَ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ: «فَإِنَّ اللَّهَ أَمَرَنِي أَنْ أَبْنِيَ هَا هُنَا بَيْتًا.» وَأَشَارَ إِلَى تَلٍّ مُرْتَفِعٍ عَلَى مَا حَوْلَهُ.",
+   "en": "He said: \"Allah has commanded me to build a House here.\" And he pointed to a mound that rose above what was around it.",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "قَالَ فَإِنَّ اللَّهَ أَمَرَنِي أَنْ أَبْنِيَ هَا هُنَا بَيْتًا وَأَشَارَ إِلَى أَكَمَةٍ مُرْتَفِعَةٍ عَلَى مَا حَوْلَهَا",
+   "cite": "Bukhari 3364",
+   "note": "His words restored exactly. أكمة → تل.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَعِنْدَ ذَلِكَ رَفَعَا الْقَوَاعِدَ مِنَ الْبَيْتِ. فَجَعَلَ إِسْمَاعِيلُ يَأْتِي بِالْحِجَارَةِ، وَإِبْرَاهِيمُ يَبْنِي.",
+   "en": "At that, they raised the foundations of the House. Isma'il began bringing the stones, and Ibrahim built.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "فَعِنْدَ ذَلِكَ رَفَعَا الْقَوَاعِدَ مِنْ الْبَيْتِ فَجَعَلَ إِسْمَاعِيلُ يَأْتِي بِالْحِجَارَةِ وَإِبْرَاهِيمُ يَبْنِي",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "حَتَّى إِذَا ارْتَفَعَ الْبِنَاءُ، جَاءَ بِهَذَا الْحَجَرِ فَوَضَعَهُ لَهُ، فَقَامَ عَلَيْهِ وَهُوَ يَبْنِي، وَإِسْمَاعِيلُ يُنَاوِلُهُ الْحِجَارَةَ.",
+   "en": "When the building had risen, he brought this stone and set it down for him, and Ibrahim stood on it as he built, while Isma'il handed him the stones.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "حَتَّى إِذَا ارْتَفَعَ الْبِنَاءُ جَاءَ بِهَذَا الْحَجَرِ فَوَضَعَهُ لَهُ فَقَامَ عَلَيْهِ وَهُوَ يَبْنِي وَإِسْمَاعِيلُ يُنَاوِلُهُ الْحِجَارَةَ",
+   "cite": "Bukhari 3364",
+   "note": "'This stone': Ibn Abbas points to the stone his listeners knew, the Maqam Ibrahim. The old card dropped 'this', 'set it down for him' and Isma'il handing the stones.",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "وَكَانَا يَقُولَانِ:",
+   "en": "And they kept saying:",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "وَهُمَا يَقُولَانِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "quran": "2:127",
+   "from_word": "ربنا",
+   "en": "\"Our Lord, accept this from us. You are the All-Hearing, the All-Knowing.\"",
+   "voice": "quran",
+   "grade": [
+    "quran",
+    "sahih"
+   ],
+   "refs": [
+    "Qur'an 2:127",
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "ar": "﴿رَبَّنَا تَقَبَّلۡ مِنَّاۤۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ﴾",
+   "audio": {
+    "file": "audio/quran/ep03-p28.mp3",
+    "quran": "2:127",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  },
+  {
+   "ar": "وَبَقِيَا يَبْنِيَانِ، وَيَدُورَانِ حَوْلَ الْبَيْتِ، وَهُمَا يَقُولَانِ ذَلِكَ.",
+   "en": "They went on building, going round and round the House, saying it again and again.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "قَالَ فَجَعَلَا يَبْنِيَانِ حَتَّى يَدُورَا حَوْلَ الْبَيْتِ وَهُمَا يَقُولَانِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَفِي ذَلِكَ يَقُولُ اللَّهُ تَعَالَى:",
+   "en": "Of this, Allah says:",
+   "voice": "narration",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 2:127"
+   ]
+  },
+  {
+   "quran": "2:127",
+   "en": "\"And when Ibrahim was raising the foundations of the House, with Isma'il: 'Our Lord, accept this from us. You are the All-Hearing, the All-Knowing.'\"",
+   "voice": "quran",
+   "grade": [
+    "quran"
+   ],
+   "refs": [
+    "Qur'an 2:127"
+   ],
+   "ar": "﴿وَإِذۡ يَرۡفَعُ إِبۡرَ ٰ⁠هِـۧمُ ٱلۡقَوَاعِدَ مِنَ ٱلۡبَيۡتِ وَإِسۡمَـٰعِيلُ رَبَّنَا تَقَبَّلۡ مِنَّاۤۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ﴾",
+   "audio": {
+    "file": "audio/quran/ep03-p31.mp3",
+    "quran": "2:127",
+    "reciter": "AbdulAziz Salar Rasoul",
+    "riwaya": "Hafs",
+    "style": "murattal",
+    "source": "Recorded by Shaykh AbdulAziz Salar Rasoul; used with permission"
+   }
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep03.mp3",
+  "duration_s": 344.03,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.5,
+    "end": 11.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 12.58,
+    "end": 19.94,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 20.74,
+    "end": 38.82,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 39.62,
+    "end": 49.62,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 50.42,
+    "end": 59.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 60.58,
+    "end": 68.34,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 69.14,
+    "end": 85.06,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 85.86,
+    "end": 97.38,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 98.18,
+    "end": 104.9,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 105.7,
+    "end": 110.02,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 110.82,
+    "end": 127.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 128.58,
+    "end": 139.54,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 140.34,
+    "end": 151.86,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 152.66,
+    "end": 158.18,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 158.98,
+    "end": 168.18,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 16,
+    "start": 168.98,
+    "end": 176.02,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 17,
+    "start": 176.82,
+    "end": 184.82,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 18,
+    "start": 185.62,
+    "end": 205.94,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 19,
+    "start": 206.74,
+    "end": 217.46,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 20,
+    "start": 218.26,
+    "end": 224.1,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 21,
+    "start": 224.9,
+    "end": 235.3,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 22,
+    "start": 236.1,
+    "end": 244.5,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 23,
+    "start": 245.3,
+    "end": 258.74,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 24,
+    "start": 259.54,
+    "end": 267.94,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 25,
+    "start": 268.74,
+    "end": 279.38,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 26,
+    "start": 280.18,
+    "end": 292.26,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 27,
+    "start": 293.06,
+    "end": 294.5,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 28,
+    "start": 295.9,
+    "end": 309.86,
+    "speaker": "AbdulAziz Salar Rasoul"
+   },
+   {
+    "paragraph": 29,
+    "start": 311.26,
+    "end": 319.1,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 30,
+    "start": 319.9,
+    "end": 322.14,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 31,
+    "start": 323.54,
+    "end": 343.59,
+    "speaker": "AbdulAziz Salar Rasoul"
+   }
+  ]
+ }
+}

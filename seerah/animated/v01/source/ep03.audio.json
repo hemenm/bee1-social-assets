@@ -1,0 +1,193 @@
+{
+ "file": "audio/episodes/ep03.mp3",
+ "duration_s": 344.03,
+ "narrator": "Arthur (ElevenLabs)",
+ "cards": [
+  {
+   "paragraph": 1,
+   "start": 0.5,
+   "end": 11.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 2,
+   "start": 12.58,
+   "end": 19.94,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 3,
+   "start": 20.74,
+   "end": 38.82,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 4,
+   "start": 39.62,
+   "end": 49.62,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 5,
+   "start": 50.42,
+   "end": 59.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 6,
+   "start": 60.58,
+   "end": 68.34,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 7,
+   "start": 69.14,
+   "end": 85.06,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 8,
+   "start": 85.86,
+   "end": 97.38,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 9,
+   "start": 98.18,
+   "end": 104.9,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 10,
+   "start": 105.7,
+   "end": 110.02,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 11,
+   "start": 110.82,
+   "end": 127.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 12,
+   "start": 128.58,
+   "end": 139.54,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 13,
+   "start": 140.34,
+   "end": 151.86,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 14,
+   "start": 152.66,
+   "end": 158.18,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 15,
+   "start": 158.98,
+   "end": 168.18,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 16,
+   "start": 168.98,
+   "end": 176.02,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 17,
+   "start": 176.82,
+   "end": 184.82,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 18,
+   "start": 185.62,
+   "end": 205.94,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 19,
+   "start": 206.74,
+   "end": 217.46,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 20,
+   "start": 218.26,
+   "end": 224.1,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 21,
+   "start": 224.9,
+   "end": 235.3,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 22,
+   "start": 236.1,
+   "end": 244.5,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 23,
+   "start": 245.3,
+   "end": 258.74,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 24,
+   "start": 259.54,
+   "end": 267.94,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 25,
+   "start": 268.74,
+   "end": 279.38,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 26,
+   "start": 280.18,
+   "end": 292.26,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 27,
+   "start": 293.06,
+   "end": 294.5,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 28,
+   "start": 295.9,
+   "end": 309.86,
+   "speaker": "AbdulAziz Salar Rasoul"
+  },
+  {
+   "paragraph": 29,
+   "start": 311.26,
+   "end": 319.1,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 30,
+   "start": 319.9,
+   "end": 322.14,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 31,
+   "start": 323.54,
+   "end": 343.59,
+   "speaker": "AbdulAziz Salar Rasoul"
+  }
+ ]
+}

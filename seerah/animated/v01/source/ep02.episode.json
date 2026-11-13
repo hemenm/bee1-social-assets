@@ -1,0 +1,613 @@
+{
+ "number": 2,
+ "title_ar": "زَمْزَمُ",
+ "title_en": "Zamzam",
+ "summary_en": "The water runs out; the mother runs between Safa and Marwa; the angel uncovers Zamzam; the Jurhum settle.",
+ "paragraphs": [
+  {
+   "ar": "كَانَتْ أُمُّ إِسْمَاعِيلَ تُرْضِعُ ابْنَهَا، وَتَشْرَبُ مِنَ الْمَاءِ الَّذِي تَرَكَهُ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ.",
+   "en": "Isma'il's mother nursed her son, and drank from the water Ibrahim, peace be upon him, had left.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "وَجَعَلَتْ أُمُّ إِسْمَاعِيلَ تُرْضِعُ إِسْمَاعِيلَ وَتَشْرَبُ مِنْ ذَلِكَ الْمَاءِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَمَرَّتِ الْأَيَّامُ. ثُمَّ انْتَهَى الْمَاءُ.",
+   "en": "The days passed. Then the water ran out.",
+   "voice": "narration",
+   "grade": [
+    "sahih",
+    "narration"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "حَتَّى إِذَا نَفِدَ مَا فِي السِّقَاءِ",
+   "note": "'The days passed' is the editor's time-setting.",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَعَطِشَتِ الْأُمُّ، وَعَطِشَ ابْنُهَا. وَجَعَلَتْ تَنْظُرُ إِلَيْهِ يَتَلَوَّى، أَوْ يَتَلَبَّطُ.",
+   "en": "The mother grew thirsty, and her son grew thirsty. She watched him writhing, or thrashing about.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "عَطِشَتْ وَعَطِشَ ابْنُهَا وَجَعَلَتْ تَنْظُرُ إِلَيْهِ يَتَلَوَّى أَوْ قَالَ يَتَلَبَّطُ",
+   "cite": "Bukhari 3364",
+   "note": "The narrator was unsure whether the word was يتلوى or يتلبط; both are kept.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَكَرِهَتْ أَنْ تَنْظُرَ إِلَيْهِ وَهُوَ هَكَذَا، فَقَامَتْ وَمَشَتْ.",
+   "en": "She could not bear to watch him like that, so she stood up and walked away.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "note": "Hadith: فانطلقت كراهية أن تنظر إليه. Her reluctance is in the source, not inferred.",
+   "wording": "retold",
+   "source": "فَانْطَلَقَتْ كَرَاهِيَةَ أَنْ تَنْظُرَ إِلَيْهِ",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَكَانَ جَبَلُ الصَّفَا أَقْرَبَ جَبَلٍ إِلَيْهَا. فَصَعِدَتْ عَلَيْهِ، وَنَظَرَتْ إِلَى الْوَادِي: هَلْ تَرَى أَحَدًا؟",
+   "en": "Safa was the nearest mountain to her. She climbed it and looked out over the valley: could she see anyone?",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَوَجَدَتْ الصَّفَا أَقْرَبَ جَبَلٍ فِي الْأَرْضِ يَلِيهَا فَقَامَتْ عَلَيْهِ ثُمَّ اسْتَقْبَلَتْ الْوَادِيَ تَنْظُرُ هَلْ تَرَى أَحَدًا",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَلَمْ تَرَ أَحَدًا.",
+   "en": "She saw no one.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "فَلَمْ تَرَ أَحَدًا",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَنَزَلَتْ مِنَ الصَّفَا. فَلَمَّا وَصَلَتْ إِلَى بَطْنِ الْوَادِي، رَفَعَتْ طَرَفَ ثَوْبِهَا، ثُمَّ سَعَتْ سَعْيَ إِنْسَانٍ مُتْعَبٍ، حَتَّى قَطَعَتِ الْوَادِي.",
+   "en": "She came down from Safa. When she reached the bottom of the valley, she lifted the hem of her dress, then ran like an exhausted person, until she had crossed the valley.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَهَبَطَتْ مِنْ الصَّفَا حَتَّى إِذَا بَلَغَتْ الْوَادِيَ رَفَعَتْ طَرَفَ دِرْعِهَا ثُمَّ سَعَتْ سَعْيَ الْإِنْسَانِ الْمَجْهُودِ حَتَّى جَاوَزَتْ الْوَادِيَ",
+   "cite": "Bukhari 3364",
+   "note": "درع → ثوب; المجهود → متعب. سعي is kept: it is the word for the pilgrims' run in the next cards.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "ثُمَّ أَتَتْ جَبَلَ الْمَرْوَةِ، فَقَامَتْ عَلَيْهِ، وَنَظَرَتْ: هَلْ تَرَى أَحَدًا؟ فَلَمْ تَرَ أَحَدًا.",
+   "en": "Then she came to the hill of Marwa, stood on it, and looked: could she see anyone? She saw no one.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "ثُمَّ أَتَتْ الْمَرْوَةَ فَقَامَتْ عَلَيْهَا وَنَظَرَتْ هَلْ تَرَى أَحَدًا فَلَمْ تَرَ أَحَدًا",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَعَلَتْ ذَلِكَ سَبْعَ مَرَّاتٍ.",
+   "en": "She did this seven times.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "فَفَعَلَتْ ذَلِكَ سَبْعَ مَرَّاتٍ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «فَذَلِكَ سَعْيُ النَّاسِ بَيْنَهُمَا.»",
+   "en": "The Messenger of Allah ﷺ said: \"And that is the running of the people between the two.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "quote": {
+    "text": "فَذَلِكَ سَعْيُ النَّاسِ بَيْنَهُمَا",
+    "tier": 1,
+    "sources": [
+     "bukhari"
+    ]
+   },
+   "note": "Planted for volume 19: the sa'y at the Farewell Hajj.",
+   "_verified": {
+    "tier": 1,
+    "source": "bukhari",
+    "row": 3112,
+    "tashkeel_changes": []
+   },
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَلَمَّا صَعِدَتْ عَلَى الْمَرْوَةِ، سَمِعَتْ صَوْتًا.",
+   "en": "When she climbed up on Marwa, she heard a voice.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَلَمَّا أَشْرَفَتْ عَلَى الْمَرْوَةِ سَمِعَتْ صَوْتًا",
+   "cite": "Bukhari 3364",
+   "note": "أشرفت → صعدت.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَأَسْكَتَتْ نَفْسَهَا، ثُمَّ اسْتَمَعَتْ جَيِّدًا، فَسَمِعَتِ الصَّوْتَ مَرَّةً أُخْرَى.",
+   "en": "She hushed herself, then listened carefully, and heard the voice again.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَقَالَتْ صَهٍ تُرِيدُ نَفْسَهَا ثُمَّ تَسَمَّعَتْ فَسَمِعَتْ أَيْضًا",
+   "cite": "Bukhari 3364",
+   "note": "Hadith: فقالت صه تريد نفسها ثم تسمعت فسمعت أيضا. She said صه ('hush') to herself; retold as indirect speech.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالَتْ لِلصَّوْتِ إِنَّهَا سَمِعَتْهُ، وَطَلَبَتْ مِنْهُ الْعَوْنَ، إِنْ كَانَ عِنْدَهُ عَوْنٌ.",
+   "en": "She told the voice she had heard it, and asked it for help, if it had any help to give.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَقَالَتْ قَدْ أَسْمَعْتَ إِنْ كَانَ عِنْدَكَ غِوَاثٌ",
+   "cite": "Bukhari 3364",
+   "note": "Hadith: قد أسمعت إن كان عندك غواث ('you have made yourself heard, if you have help'). Retold as indirect speech; the 'if' is kept, so it does not become a flat 'help me'.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَرَأَتِ الْمَلَكَ عِنْدَ مَكَانِ زَمْزَمَ. فَحَفَرَ الْأَرْضَ بِعَقِبِهِ، أَوْ بِجَنَاحِهِ، حَتَّى خَرَجَ الْمَاءُ.",
+   "en": "She saw the angel at the place of Zamzam. He dug the ground with his heel, or with his wing, until the water came out.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَإِذَا هِيَ بِالْمَلَكِ عِنْدَ مَوْضِعِ زَمْزَمَ فَبَحَثَ بِعَقِبِهِ أَوْ قَالَ بِجَنَاحِهِ حَتَّى ظَهَرَ الْمَاءُ",
+   "cite": "Bukhari 3364",
+   "note": "Hadith: فإذا هي بالملك عند موضع زمزم فبحث بعقبه أو قال بجناحه حتى ظهر الماء. The narrator's doubt (heel or wing) is kept.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَجَعَلَتْ تَصْنَعُ حَوْلَهُ حَوْضًا، وَتَقُولُ بِيَدِهَا هَكَذَا. وَجَعَلَتْ تَغْرِفُ مِنَ الْمَاءِ فِي قِرْبَتِهَا، وَهُوَ يَفُورُ بَعْدَمَا تَغْرِفُ.",
+   "en": "She began making a basin around it, shaping it with her hand like this. And she began scooping water into her waterskin, and it kept welling up after she scooped.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَجَعَلَتْ تُحَوِّضُهُ وَتَقُولُ بِيَدِهَا هَكَذَا وَجَعَلَتْ تَغْرِفُ مِنْ الْمَاءِ فِي سِقَائِهَا وَهُوَ يَفُورُ بَعْدَ مَا تَغْرِفُ",
+   "cite": "Bukhari 3364",
+   "note": "تحوضه → تصنع حوله حوضا. تقول بيدها هكذا: the narrator showed the motion with his hand; kept.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَرْحَمُ اللَّهُ أُمَّ إِسْمَاعِيلَ، لَوْ تَرَكَتْ زَمْزَمَ — أَوْ قَالَ: لَوْ لَمْ تَغْرِفْ مِنَ الْمَاءِ — لَكَانَتْ زَمْزَمُ عَيْنًا مَعِينًا.»",
+   "en": "The Messenger of Allah ﷺ said: \"May Allah have mercy on the mother of Isma'il. Had she left Zamzam alone — or he said: had she not scooped from the water — Zamzam would have been a flowing spring.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "quote": {
+    "text": "يَرْحَمُ اللَّهُ أُمَّ إِسْمَاعِيلَ لَوْ تَرَكَتْ زَمْزَمَ أَوْ قَالَ لَوْ لَمْ تَغْرِفْ مِنَ الْمَاءِ لَكَانَتْ زَمْزَمُ عَيْنًا مَعِينًا",
+    "tier": 1,
+    "sources": [
+     "bukhari"
+    ]
+   },
+   "note": "Exact words. The narrator's أو قال is part of the text and is kept. Source vocalizes مِنْ الْمَاءِ; corrected to مِنَ الْمَاءِ (connecting vowel). Gloss: تَغْرِفْ = scoop; عَيْنًا مَعِينًا = a spring of flowing water on the surface.",
+   "_verified": {
+    "tier": 1,
+    "source": "bukhari",
+    "row": 3112,
+    "tashkeel_changes": [
+     "مِنْ → مِنَ"
+    ]
+   },
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَشَرِبَتْ، وَأَرْضَعَتِ ابْنَهَا.",
+   "en": "So she drank, and nursed her son.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "قَالَ فَشَرِبَتْ وَأَرْضَعَتْ وَلَدَهَا",
+   "cite": "Bukhari 3364",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالَ لَهَا الْمَلَكُ: «لَا تَخَافُوا الضَّيْعَةَ، فَإِنَّ هَا هُنَا بَيْتَ اللَّهِ، يَبْنِي هَذَا الْغُلَامُ وَأَبُوهُ، وَإِنَّ اللَّهَ لَا يُضِيعُ أَهْلَهُ.»",
+   "en": "And the angel said to her: \"Do not fear being lost, for here is the House of Allah, which this boy and his father will build. And Allah does not let His people be lost.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "فَقَالَ لَهَا الْمَلَكُ لَا تَخَافُوا الضَّيْعَةَ فَإِنَّ هَا هُنَا بَيْتَ اللَّهِ يَبْنِي هَذَا الْغُلَامُ وَأَبُوهُ وَإِنَّ اللَّهَ لَا يُضِيعُ أَهْلَهُ",
+   "cite": "Bukhari 3364",
+   "note": "Restored word for word (the old card changed الضيعة and يضيع). Echoes her words in episode 1: إذن لا يضيعنا.",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "وَكَانَ مَكَانُ الْبَيْتِ مُرْتَفِعًا عَنِ الْأَرْضِ مِثْلَ تَلٍّ صَغِيرٍ. تَأْتِيهِ السُّيُولُ، فَتَمُرُّ عَنْ يَمِينِهِ وَعَنْ شِمَالِهِ.",
+   "en": "The site of the House was raised above the ground like a small hill. Floods would come to it and pass by on its right and its left.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "وَكَانَ الْبَيْتُ مُرْتَفِعًا مِنْ الْأَرْضِ كَالرَّابِيَةِ تَأْتِيهِ السُّيُولُ فَتَأْخُذُ عَنْ يَمِينِهِ وَشِمَالِهِ",
+   "cite": "Bukhari 3364",
+   "note": "New card; this detail was missing. رابية → تل صغير.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَبَقِيَتْ كَذَلِكَ، حَتَّى مَرَّتْ بِهِمْ جَمَاعَةٌ مِنْ قَبِيلَةِ جُرْهُمَ، أَوْ أَهْلُ بَيْتٍ مِنْ جُرْهُمَ، قَادِمِينَ مِنْ طَرِيقِ كَدَاءٍ. فَنَزَلُوا فِي أَسْفَلِ مَكَّةَ.",
+   "en": "She stayed that way until a party from the tribe of Jurhum, or one household of Jurhum, passed by them, coming along the road of Kada'. They camped in the lower part of Makkah.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَكَانَتْ كَذَلِكَ حَتَّى مَرَّتْ بِهِمْ رُفْقَةٌ مِنْ جُرْهُمَ أَوْ أَهْلُ بَيْتٍ مِنْ جُرْهُمَ مُقْبِلِينَ مِنْ طَرِيقِ كَدَاءٍ فَنَزَلُوا فِي أَسْفَلِ مَكَّةَ",
+   "cite": "Bukhari 3364",
+   "note": "The narrator's doubt (a party or a household) is kept. Kada' is the upper road into Makkah.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَرَأَوْا طَائِرًا يَدُورُ فِي السَّمَاءِ.",
+   "en": "They saw a bird circling.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَرَأَوْا طَائِرًا عَائِفًا",
+   "cite": "Bukhari 3364",
+   "note": "عائف = a bird circling, as birds circle over water.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَقَالُوا إِنَّ هَذَا الطَّائِرَ يَدُورُ عَلَى مَاءٍ، وَهُمْ يَعْرِفُونَ هَذَا الْوَادِي، وَمَا كَانَ فِيهِ مَاءٌ.",
+   "en": "They said this bird must be circling over water, yet they knew this valley, and there had been no water in it.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَقَالُوا إِنَّ هَذَا الطَّائِرَ لَيَدُورُ عَلَى مَاءٍ لَعَهْدُنَا بِهَذَا الْوَادِي وَمَا فِيهِ مَاءٌ",
+   "cite": "Bukhari 3364",
+   "note": "Hadith: إن هذا الطائر ليدور على ماء لعهدنا بهذا الوادي وما فيه ماء. Retold as indirect speech.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "فَأَرْسَلُوا رَسُولًا أَوْ رَسُولَيْنِ، فَإِذَا هُمْ بِالْمَاءِ. فَرَجَعُوا فَأَخْبَرُوهُمْ بِالْمَاءِ، فَأَقْبَلُوا.",
+   "en": "They sent a scout or two, and there was the water. The scouts went back and told them about the water, and they came.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَأَرْسَلُوا جَرِيًّا أَوْ جَرِيَّيْنِ فَإِذَا هُمْ بِالْمَاءِ فَرَجَعُوا فَأَخْبَرُوهُمْ بِالْمَاءِ فَأَقْبَلُوا",
+   "cite": "Bukhari 3364",
+   "note": "جري → رسول. The narrator's doubt (one or two) is kept.",
+   "citation": "Retold from Bukhari 3364"
+  },
+  {
+   "ar": "وَأُمُّ إِسْمَاعِيلَ عِنْدَ الْمَاءِ. فَقَالُوا: «أَتَأْذَنِينَ لَنَا أَنْ نَنْزِلَ عِنْدَكِ؟» فَقَالَتْ: «نَعَمْ، وَلَكِنْ لَا حَقَّ لَكُمْ فِي الْمَاءِ.» قَالُوا: «نَعَمْ.»",
+   "en": "Isma'il's mother was by the water. They said: \"Will you permit us to settle near you?\" She said: \"Yes, but you have no right to the water.\" They said: \"Yes.\"",
+   "voice": "reported",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "exact",
+   "source": "قَالَ وَأُمُّ إِسْمَاعِيلَ عِنْدَ الْمَاءِ فَقَالُوا أَتَأْذَنِينَ لَنَا أَنْ نَنْزِلَ عِنْدَكِ فَقَالَتْ نَعَمْ وَلَكِنْ لَا حَقَّ لَكُمْ فِي الْمَاءِ قَالُوا نَعَمْ",
+   "cite": "Bukhari 3364",
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «فَأَلْفَى ذَلِكَ أُمَّ إِسْمَاعِيلَ وَهِيَ تُحِبُّ الْإِنْسَ.»",
+   "en": "The Messenger of Allah ﷺ said: \"It came to the mother of Isma'il at a time when she longed for company.\"",
+   "voice": "prophet",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "quote": {
+    "text": "فَأَلْفَى ذَلِكَ أُمَّ إِسْمَاعِيلَ وَهِيَ تُحِبُّ الْإِنْسَ",
+    "tier": 1,
+    "sources": [
+     "bukhari"
+    ]
+   },
+   "note": "Exact words. Gloss: أَلْفَى = found; الْإِنْسَ = people, company. The news of the visitors found her longing for company.",
+   "_verified": {
+    "tier": 1,
+    "source": "bukhari",
+    "row": 3112,
+    "tashkeel_changes": []
+   },
+   "citation": "Bukhari 3364"
+  },
+  {
+   "ar": "فَنَزَلُوا، وَأَرْسَلُوا إِلَى أَهْلِيهِمْ، فَنَزَلُوا مَعَهُمْ، حَتَّى صَارَ بِمَكَّةَ أَهْلُ بُيُوتٍ مِنْهُمْ.",
+   "en": "So they settled, and sent for their families, who came and settled with them, until there were several households of them in Makkah.",
+   "voice": "narration",
+   "grade": [
+    "sahih"
+   ],
+   "refs": [
+    "Bukhari 3364 — Ibn Abbas (Ahadith al-Anbiya)"
+   ],
+   "wording": "retold",
+   "source": "فَنَزَلُوا وَأَرْسَلُوا إِلَى أَهْلِيهِمْ فَنَزَلُوا مَعَهُمْ حَتَّى إِذَا كَانَ بِهَا أَهْلُ أَبْيَاتٍ مِنْهُمْ",
+   "cite": "Bukhari 3364",
+   "note": "Answers episode 1: 'there was no one in Makkah, and no water'.",
+   "citation": "Retold from Bukhari 3364"
+  }
+ ],
+ "audio": {
+  "file": "audio/episodes/ep02.mp3",
+  "duration_s": 234.21,
+  "narrator": "Arthur (ElevenLabs)",
+  "cards": [
+   {
+    "paragraph": 1,
+    "start": 0.5,
+    "end": 7.86,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 2,
+    "start": 8.66,
+    "end": 12.02,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 3,
+    "start": 12.82,
+    "end": 22.26,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 4,
+    "start": 23.06,
+    "end": 28.02,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 5,
+    "start": 28.82,
+    "end": 38.98,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 6,
+    "start": 39.78,
+    "end": 41.38,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 7,
+    "start": 42.18,
+    "end": 55.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 8,
+    "start": 56.58,
+    "end": 65.38,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 9,
+    "start": 66.18,
+    "end": 68.66,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 10,
+    "start": 69.46,
+    "end": 75.62,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 11,
+    "start": 76.42,
+    "end": 79.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 12,
+    "start": 80.58,
+    "end": 87.46,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 13,
+    "start": 88.26,
+    "end": 96.18,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 14,
+    "start": 96.98,
+    "end": 105.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 15,
+    "start": 106.58,
+    "end": 117.86,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 16,
+    "start": 118.66,
+    "end": 134.5,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 17,
+    "start": 135.3,
+    "end": 137.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 18,
+    "start": 138.58,
+    "end": 150.9,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 19,
+    "start": 151.7,
+    "end": 162.1,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 20,
+    "start": 162.9,
+    "end": 175.78,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 21,
+    "start": 176.58,
+    "end": 179.54,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 22,
+    "start": 180.34,
+    "end": 188.58,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 23,
+    "start": 189.38,
+    "end": 197.7,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 24,
+    "start": 198.5,
+    "end": 213.94,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 25,
+    "start": 214.74,
+    "end": 223.46,
+    "speaker": "Arthur"
+   },
+   {
+    "paragraph": 26,
+    "start": 224.26,
+    "end": 233.78,
+    "speaker": "Arthur"
+   }
+  ]
+ }
+}

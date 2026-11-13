@@ -4,18 +4,21 @@ An animated version of the Seerah, built a little at a time from the Higgsfield 
 
 ## How each monthly run works
 
-1. Check the Higgsfield balance. Keep **10%** back for the still-video series; the rest is this month's animation budget.
-2. Open `v01/shotlist.json` and take the next shots with `"status": "todo"`, in order.
-3. For each shot:
-   - Generate a **keyframe** image in the series style (below), using the still reference and its paragraph as the brief.
-   - Animate it into a **5–10 second clip** (image-to-video).
-   - Check both against the depiction rules before keeping them. Anything that breaks a rule is regenerated or the shot is redesigned. It is never kept.
-4. Save keyframes to `v01/keyframes/` and clips to `v01/clips/` as `<shot id>.png` / `<shot id>.mp4`. Each file must stay under 20 MB so the CDN can serve it.
-5. Update each shot in `shotlist.json`: `status` (`done`, or `blocked` with a reason), file paths, `credits_spent`, `month`.
-6. Stop when the budget is spent. Never dip into the 10% reserve.
-7. Report: shots finished, credits spent, credits left, and the next shot in line.
+Volume 1 is animated **one episode at a time, in order**, using the same tools as the "Stories of the Prophets" animated series: Nano Banana Pro keyframes and Seedance 2.5 video. Each finished episode is fully animated from start to end and cut to its existing narration.
 
-When every shot in an episode is `done`, the episode is ready to assemble. That means the clips cut to the existing episode narration and recitation audio, with the same Arabic/English cards, logo, titles and layout as the still series. Arabic text is never drawn by an image or video model. It is always composited (Amiri font).
+1. Check the Higgsfield balance. Keep **10%** back for the still-video series; the rest is this month's animation budget.
+2. Open `v01/shotlist.json` and take the first episode whose status is not `done`.
+3. **Beat plan** (once per episode, before generating anything). Use `v01/source/epNN.audio.json` (paragraph timings), `epNN.episode.json` (the text), and `epNN.mp3` (the narration) to map the whole runtime into shots. Each shot is 4 to 15 seconds, and long takes are welcome where the narration lingers. Reuse a shot already made for the volume wherever it fits instead of generating a new one. Save the plan to `v01/beats/epNN.json`: one entry per shot with start, end, paragraph(s), a description, status `todo`, and the clip file once made.
+4. For each shot in the beat plan, in order:
+   - **Keyframe**: Nano Banana Pro, 2K, 16:9, in the series style below (about 2 credits).
+   - Check the keyframe against the depiction rules before animating it. Anything that breaks a rule is regenerated or the shot redesigned; it is never kept.
+   - **Clip**: Seedance 2.5 (`seedance_2_5`) from the keyframe as start frame, `mode: std`, `1080p`, `generate_audio: false`, duration matched to the beat (about 72 credits per 8 seconds). Check the finished clip against the same rules.
+5. Save keyframes to `v01/keyframes/epNN/` and clips to `v01/clips/epNN/`, named by shot number. Keep each file under 20 MB.
+6. Update the beat plan and `shotlist.json` (episode status `in progress` or `done`, credits spent, month) and commit as you go.
+7. Stop when the budget is spent. Never dip into the 10% reserve. A half-finished episode simply continues next month.
+8. Report: shots finished, credits spent, credits left, and whether an episode is now complete.
+
+When an episode is `done`, it is assembled: the clips are cut to the episode narration and recitation, with the same Arabic/English cards, logo, titles and layout as the still series. Arabic text is never drawn by an image or video model. It is always composited (Amiri font). The animation is made at 16:9; vertical versions are cropped from it.
 
 ## Style
 
@@ -34,6 +37,7 @@ Use the same style words in every prompt so the series stays consistent. Once th
 
 ## Files
 
-- `v01/shotlist.json`: one entry per shot (75 for Volume 1). Each shot links to its episode, scene, story paragraph and the still image used in the Reels.
+- `v01/shotlist.json`: progress per episode, plus `scene_reference`, the scenes used by the still series (useful as composition ideas).
+- `v01/source/`: each episode's narration audio, paragraph timings and text.
+- `v01/beats/`: the beat plan for each episode.
 - `v01/keyframes/`, `v01/clips/`: generated output.
-- Audio and still references live in the main production workspace and the `seerah-reels` branch.

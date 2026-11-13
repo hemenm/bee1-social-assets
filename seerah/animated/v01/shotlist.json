@@ -2,7 +2,90 @@
  "volume": 1,
  "style": "3D animated film",
  "reserve_pct": 10,
- "shots": [
+ "approach": "episode by episode, beat-based, Seedance 2.5",
+ "episodes": [
+  {
+   "episode": 1,
+   "duration_s": 155.17,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 2,
+   "duration_s": 234.21,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 3,
+   "duration_s": 344.03,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 4,
+   "duration_s": 171.91,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 5,
+   "duration_s": 162.95,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 6,
+   "duration_s": 117.92,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 7,
+   "duration_s": 191.61,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 8,
+   "duration_s": 183.72,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 9,
+   "duration_s": 158.59,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  },
+  {
+   "episode": 10,
+   "duration_s": 133.43,
+   "status": "todo",
+   "beat_plan": null,
+   "credits_spent": 0,
+   "months": []
+  }
+ ],
+ "scene_reference": [
   {
    "id": "v01-ep01-s01",
    "episode": 1,

@@ -1,0 +1,163 @@
+{
+ "file": "audio/episodes/ep02.mp3",
+ "duration_s": 234.21,
+ "narrator": "Arthur (ElevenLabs)",
+ "cards": [
+  {
+   "paragraph": 1,
+   "start": 0.5,
+   "end": 7.86,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 2,
+   "start": 8.66,
+   "end": 12.02,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 3,
+   "start": 12.82,
+   "end": 22.26,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 4,
+   "start": 23.06,
+   "end": 28.02,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 5,
+   "start": 28.82,
+   "end": 38.98,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 6,
+   "start": 39.78,
+   "end": 41.38,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 7,
+   "start": 42.18,
+   "end": 55.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 8,
+   "start": 56.58,
+   "end": 65.38,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 9,
+   "start": 66.18,
+   "end": 68.66,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 10,
+   "start": 69.46,
+   "end": 75.62,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 11,
+   "start": 76.42,
+   "end": 79.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 12,
+   "start": 80.58,
+   "end": 87.46,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 13,
+   "start": 88.26,
+   "end": 96.18,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 14,
+   "start": 96.98,
+   "end": 105.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 15,
+   "start": 106.58,
+   "end": 117.86,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 16,
+   "start": 118.66,
+   "end": 134.5,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 17,
+   "start": 135.3,
+   "end": 137.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 18,
+   "start": 138.58,
+   "end": 150.9,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 19,
+   "start": 151.7,
+   "end": 162.1,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 20,
+   "start": 162.9,
+   "end": 175.78,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 21,
+   "start": 176.58,
+   "end": 179.54,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 22,
+   "start": 180.34,
+   "end": 188.58,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 23,
+   "start": 189.38,
+   "end": 197.7,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 24,
+   "start": 198.5,
+   "end": 213.94,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 25,
+   "start": 214.74,
+   "end": 223.46,
+   "speaker": "Arthur"
+  },
+  {
+   "paragraph": 26,
+   "start": 224.26,
+   "end": 233.78,
+   "speaker": "Arthur"
+  }
+ ]
+}
